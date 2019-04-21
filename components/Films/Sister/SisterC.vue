@@ -45,7 +45,7 @@ It's 1851, and Charlie and Eli Sisters are both brothers and assassins, boys gro
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <!--<Romfordbutton />-->
-  <Vstratford />
+<!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>

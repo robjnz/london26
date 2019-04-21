@@ -35,22 +35,22 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
-<h3 class="labour">Dancers Delight Under 18<br>
 <!--
+<h3 class="labour">Dancers Delight Under 18<br>
+
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/gh5HuOT6BmE"
           allowfullscreen
   ></b-embed>
- -->
+
     Showing today @
   <br> Broadway Theatre Barking
   <br>@<br>6pm
 </h3>
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

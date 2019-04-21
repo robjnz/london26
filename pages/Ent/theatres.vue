@@ -7,11 +7,16 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Dancers Delight Under 18">
+<b-card bg-variant="dark" text-variant="white" title= "The Dreamboys">
   <p class="title-color">
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/xiXsFXLTJMk"
+          allowfullscreen
+  ></b-embed>
 
     Broadway Theatre Barking<br>
-    Thurs 18 April 2019 @ 6 pm
+     Thurs 25 Apr 2019 @ 8pm
 
 
     </p>

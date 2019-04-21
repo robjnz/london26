@@ -7,21 +7,14 @@
 
     <b-card-group deck
     class="mb-3">
-    <DogC /><!--A Dog's Way Home-->
     <MarvelC /><!-- Captain Marvel -->
   <Dumbo /><!--Dumbo -->
-    </b-card-group>
+  <FightingC /><!--Fighting With My Family -->
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Lion /><!--Eaten by Lion -->
-    <FightingC /><!--Fighting With My Family -->
-    <Fisherman /><!--Fisherman’s Friend -->
-      </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <GreenC /><!--Green Book-->
+  <Fisherman /><!--Fisherman’s Friend -->
     <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
     </b-card-group>
@@ -29,49 +22,42 @@
   <b-card-group deck
   class="mb-3 ">
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
-    <FamilyC /><!--Instant Family  -->
     <LittleC /><!--Little -->
-    </b-card-group>
+  <Lords /><!--Lords of chaos-->
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Lords /><!--Lords of chaos-->
   <PoppinsC /><!--Mary Poppins-->
   <MidC /><!--Mid 90s -->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <MissingC /><!--Missing Link-->
-  <BlueC /><!--Out Of Blue -->
-  <KeeperC /><!--The Keeper -->
-   </b-card-group>
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <BlueC /><!--Out Of Blue -->
   <FavouriteC /><!--The Favourite -->
-  <KingC /><!--The Kid Who Would Be King-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <PetC /><!--Pet Sematary-->
+  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
+  <JoanC /><!--Red Joan-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <ShazamC /><!--Shazam-->
   <SisterC /><!--The sisters Brother -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <UsC /><!--Us-->
-  <Vice /><!--Vice-->
-  <Rose /><!----Wild Rose -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Rose /><!----Wild Rose -->
   <WonderC /><!--Wonder park -->
-  <blank />
   <Blank />
   </b-card-group>
 
@@ -83,6 +69,7 @@
       <!--<Airaa Airaa -->
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
+      <!--<DogC --A Dog's Way Home-->
 
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
@@ -98,15 +85,22 @@
 
       <!--<Dragon --Dragon Ball Super -->
       <!--<EscapeC --Escape Room -->
+      <!--<FamilyC --Instant Family  -->
+      <!--<Lion /--Eaten by Lion -->
 
       <!--<EverybodyC />--Everybody Knows -->
       <!--<GlassC --Glass-->
+       <!--<GreenC /--Green Book-->
+
 
       <!--<Guddiyan />--Guddiyan Patole -->
 
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
+      <!--<KeeperC --The Keeper -->
+      <!--<KingC /--The Kid Who Would Be King-->
+
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
@@ -120,7 +114,6 @@
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
-      <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
@@ -132,6 +125,8 @@
       <!--Grinch --Grinch-->
       <!--<VanishingC --The Vanishing-->
       <!--<Crow --The White Crow-->
+          <!--<Vice /--Vice-->
+
 
       </b-container>
       </section>
@@ -246,6 +241,8 @@ import SuperC from '@/components/Films/Super/SuperC'
 import MidC from '@/components/Films/Mid/MidC'
 import Kesari from '@/components/Films/Kesari'
 import GretaC from '@/components/Films/Greta/GretaC'
+import JoanC from '@/components/Films/Joan/JoanC'
+
 
 
 
@@ -320,6 +317,7 @@ export default {
     GretaC,
     Guddiyan,
     Gully,
+    JoanC,
     Hannah,
     Happy,
     HappyC,

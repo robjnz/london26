@@ -23,7 +23,7 @@
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
  <Ogreenwichbutton />
-  <Osouthbutton />
+<!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -43,8 +43,8 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
-  <Vstratford />
+  <!--<Romfordbutton />-->
+  <!--<Vstratford />-->
   </b-button-group>
   <h4 class="title-color"></h4>
   <b-button-group>

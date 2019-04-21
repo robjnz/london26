@@ -8,15 +8,15 @@
   <b-card-group deck
   class="mb-3 ">
     <Gully /><!--Gully Boy -->
-    <Kesari /><!--Kesari -->
     <Lucifer /><!--Lucifer-->
-    </b-card-group>
+    <ManjeC /><!--Manje Bistre 2-->
+     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Luka /><!--Luka Chuppi  -->
-    <ManjeC /><!--Manje Bistre 2-->
     <SherdilC /><!--SherDil-->
+    <Blank />
+    <Blank />
     </b-card-group>
 
 
@@ -52,10 +52,13 @@
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
+      <!--<Kesari /--Kesari -->
+
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
+    <!--<Luka /--Luka Chuppi  -->
 
       <!--<Bala --Miss Bala-->
 

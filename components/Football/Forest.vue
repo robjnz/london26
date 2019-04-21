@@ -3,7 +3,7 @@
 <a href="https://kutt.it/foresthillpark-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544352826/forest_hill_fc_rzgdhi.jpg" fluid-grow alt="Forest Hill Park F.C."/></a>
 <p class="title-color">
 
-<br>Friday 19 April 2019 @ 3pm <br>V<br>Bridon Ropes
+<br>
 
 </p>
 </b-card>
