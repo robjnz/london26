@@ -78,15 +78,7 @@
         <b-dropdown-item href="/Sport/tennis">Tennis Courts</b-dropdown-item>
         </b-nav-item-dropdown>
 
-        <b-nav-item href="/Ent/movies">Movies on Today</b-nav-item>
-        <b-nav-item href="/Ent/asian">Asian Movies on Today</b-nav-item>
-        <b-nav-item href="/Ent/night">Nightclubs</b-nav-item>
-        <b-nav-item href="/Ent/theatres">Theatres</b-nav-item>
-        <b-nav-item href="/Sport/football">Football Matches</b-nav-item>
-
-
-
-
+        
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->

@@ -4,35 +4,35 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>21st April 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>22nd April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-<!--
+
 <h3 class="title-color">
 
   Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544009671/charlton_fc_madgqn.png" alt="Charlton Athletic F.C."/>
-Charlton Athletic F.C.<br>V<br>Luton Town<br> @ 3pm
+Charlton Athletic F.C.<br>V<br>Scunthorpe United<br> @ 3pm
 <br>
 <b-button href="http://bit.ly/2GsFU02" target="_blank" variant="info">open</b-button>
 </h3>
--->
+
 <h3 class ="tory">
-<br>Greta<br>
+<br>Red Joan<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/2f1maBmQzH8"
+          src    = "https://www.youtube.com/embed/gkecgBW-Y80"
           allowfullscreen
   ></b-embed>
     Showing today @
-  <br>Cineworld
+  <br>Vue
 
 <br>
-Ilford
+Statford
 
 </h3>
 
-<b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
 <!--

@@ -48,10 +48,10 @@
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Good Cop Bad Cop">
+<b-card bg-variant="dark" text-variant="white" title= "Block Universe">
   <p class="title-color">
     Hoxton Hall<br>
-    Thu 18 April 2019 @ 7pm
+    Thu 30 May - Fri 31 May @ 7.30pm
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
@@ -68,12 +68,17 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Hansel & Gretel">
-  <p class="title-color">
+<b-card bg-variant="dark" text-variant="white" title= "The Hired Man">
+
 
   <p class="title-color">
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/UwPj9I7Jytg"
+          allowfullscreen
+  ></b-embed>
     Queen's Theatre Hornchurch<br>
-    Sat 20 Apr 2019 @ 10.30am & 12pm
+    Sat 27 Apr - Sat 18 May 2019
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>

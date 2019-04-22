@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Sat April 2019 12.30pm<br>V<br>Braintree Town
+<br>Sat 27 April 2019 12.30pm<br>V<br>Braintree Town
 
 </p>
 </b-card>
