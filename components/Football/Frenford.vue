@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-  <br>Mon 22 April 2019 @ 3pm <br>V<br>May & Baker
+  <br>
 
 </p>
 </b-card>

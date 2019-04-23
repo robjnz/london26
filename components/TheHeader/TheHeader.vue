@@ -78,7 +78,7 @@
         <b-dropdown-item href="/Sport/tennis">Tennis Courts</b-dropdown-item>
         </b-nav-item-dropdown>
 
-        
+
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->
@@ -97,7 +97,7 @@
 
 .title{
   color    : gold;
-  font-size: 2rem;
+  font-size: 1.5rem;
 
 }
 

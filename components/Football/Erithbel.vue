@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Mon 22nd April 2019<br>V <br>Sutton Athletic
+<br>
 <br>
 
 </p>

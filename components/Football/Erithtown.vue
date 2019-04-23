@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Mon 22nd April 2019 @ 3pm<br>V <br>Tunbridge Wells
+<br>
 </p>
 
 </b-card>
