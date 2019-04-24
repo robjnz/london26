@@ -4,10 +4,10 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Tuesday<br>23rd April 2019</font></h1>
+    <h1> <font color="gold"><br>Wednesday<br>24th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-
+<!--
 <h3 class="title-color">
 
   Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544893664/newbury_fc_vqsc8u.jpg" alt="newbury forest F.C."/>
@@ -15,7 +15,7 @@ Newbury Forest F.C.<br>V<br>Worley Rovers<br> @ 7.45pm
 <br>
 <b-button href="https://kutt.it/newbury-fc" target="_blank" variant="info">open</b-button>
 </h3>
-
+-->
 <h3 class ="tory">
 <br>Red Joan<br>
 

@@ -4,10 +4,9 @@
 <p class="title-color">
 
 
-<br>Tues 23 April 2019 @ 7.45pm <br>V<br>Worley Rovers
-<!--
+
 <br>Sat 27 April 2019 @ 3pm<br>V<br>Little Oakley
--->
+
 </p>
 </b-card>
 </template>

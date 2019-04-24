@@ -11,12 +11,14 @@
 <script>
 import TheHeader from '@/components/TheHeader/TheHeader'
 import TheFooter from '@/components/TheFooter/TheFooter'
+import NavBar from '@/components/TheHeader/NavBar'
 
 
 export default {
   components: {
     TheHeader,
     TheFooter,
+    NavBar,
   }
 }
 </script>
