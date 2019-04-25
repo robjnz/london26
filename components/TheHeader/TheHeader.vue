@@ -70,7 +70,7 @@
         <b-dropdown-item href="/video">Job search Advice videos</b-dropdown-item>
         </b-nav-item-dropdown>
 
-        <b-nav-item-dropdown text="Sport" right>
+        <b-nav-item-dropdown  text="Sport" right>
         <b-dropdown-item href="/Sport/football">Football Matches</b-dropdown-item>
         <b-dropdown-item href="/Sport/rugby">Rugby Football Clubs</b-dropdown-item>
         <b-dropdown-item href="/Sport/running">Running Clubs</b-dropdown-item>
@@ -103,6 +103,7 @@
 
 .nav{
   font-size: 21px;
+
 }
 
 .dropdown-item{

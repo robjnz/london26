@@ -1,7 +1,7 @@
 {
   "name": "london",
   "version": "1.0.0",
-  "description": "Wednesday 24th April 2019, What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, places to visit for days out in east London, places to eat, job search resources and much more!",
+  "description": "Thursday 25th April 2019, What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, places to visit for days out in east London, places to eat, job search resources and much more!",
   "author": "robin harris",
   "private": true,
   "scripts": {
@@ -11,8 +11,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "bootstrap": "^4.1.3",
-    "bootstrap-vue": "^2.0.0-rc.11",
+    "bootstrap": "^4.3.1",
+    "bootstrap-sidebar": "^0.2.2-retry",
+    "bootstrap-vue": "^2.0.0-rc.19",
     "cross-env": "^5.2.0",
     "jquery": "^3.4.0",
     "nuxt": "^2.4.0"
