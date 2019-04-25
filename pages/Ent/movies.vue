@@ -1,64 +1,50 @@
 <template>
-<section main>
+<section>
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 21st April 2019</h2>
+    <h2>Friday 26th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
+    <AvengersC /><!--Avengers Endgame -->
     <MarvelC /><!-- Captain Marvel -->
-  <Dumbo /><!--Dumbo -->
-  <FightingC /><!--Fighting With My Family -->
+    <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Fisherman /><!--Fisherman’s Friend -->
+  <EighthC /><!--Eighth Grade -->
     <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <LittleC /><!--Little -->
-  <Lords /><!--Lords of chaos-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <PoppinsC /><!--Mary Poppins-->
   <MidC /><!--Mid 90s -->
   <MissingC /><!--Missing Link-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <BlueC /><!--Out Of Blue -->
   <FavouriteC /><!--The Favourite -->
   <Peppa /><!--Peppa Pig Festival of Fun-->
-   </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <PetC /><!--Pet Sematary-->
-  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
-  <JoanC /><!--Red Joan-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <JoanC /><!--Red Joan-->
   <ShazamC /><!--Shazam-->
   <SisterC /><!--The sisters Brother -->
-  <UsC /><!--Us-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <UsC /><!--Us-->
   <Rose /><!----Wild Rose -->
   <WonderC /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
 
@@ -69,6 +55,8 @@
       <!--<Airaa Airaa -->
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
+      <!-- <BlueC />--Out Of Blue -->
+
       <!--<DogC --A Dog's Way Home-->
 
       <!--True --All Is True 12A"-->
@@ -84,13 +72,18 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
+      <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
+
       <!--<EscapeC --Escape Room -->
       <!--<FamilyC --Instant Family  -->
       <!--<Lion /--Eaten by Lion -->
 
       <!--<EverybodyC />--Everybody Knows -->
+      <!--<FightingC /--Fighting With My Family -->
+      <!--<Fisherman --Fisherman’s Friend -->
+
       <!--<GlassC --Glass-->
-       <!--<GreenC /--Green Book-->
+      <!--<GreenC /--Green Book-->
 
 
       <!--<Guddiyan />--Guddiyan Patole -->
@@ -106,14 +99,18 @@
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
       <!--<Luka />--Luka Chuppi  -->
+<!--  <Lords /--Lords of chaos-->
 
       <!--<Bala --Miss Bala-->
 
       <!--Maiden --Maiden-->
+      <!--<PoppinsC /--Mary Poppins-->
+
       <!--<Milan -Milan Talkies-->
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
+      <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
@@ -242,6 +239,8 @@ import MidC from '@/components/Films/Mid/MidC'
 import Kesari from '@/components/Films/Kesari'
 import GretaC from '@/components/Films/Greta/GretaC'
 import JoanC from '@/components/Films/Joan/JoanC'
+import AvengersC from '@/components/Films/Avengers/AvengersC'
+import EighthC from '@/components/Films/Eighth/EighthC'
 
 
 
@@ -271,6 +270,7 @@ export default {
     Airaa,
     Alita,
     AlitaC,
+    AvengersC,
     Badla,
     Bala,
     Band,
@@ -296,6 +296,7 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
+    EighthC,
     Escape,
     EscapeC,
     Everybody,

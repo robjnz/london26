@@ -2,7 +2,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "The Favourite 15">
   <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/rJl36o_tq_c"
+          src    = "https://www.youtube.com/embed/SYb-wkehT1g"
           allowfullscreen
   ></b-embed>
 <p class="title-color">

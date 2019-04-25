@@ -9,13 +9,13 @@
     Haunted by a traumatic experience from the past, Adelaide grows increasingly concerned that something bad is going to happen.</p>
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
+<!--<Bexleyheathbutton />-->
 <Greenwichbutton />
   </b-button-group>
 <br><br>
 <b-button-group>
 <!--<Ilfordbutton />-->
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
@@ -26,12 +26,12 @@
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
+ <!--<Pgreenwichbutton />-->
   <Phackneybutton />
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>

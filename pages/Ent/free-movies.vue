@@ -14,92 +14,99 @@
   <b-card-group deck
   class="mb-3 ">
   <Aquaman /><!--Aquaman -->
+  <Avengers /><!--Avengers Endgame -->
   <Boy /><!--Beautiful Boy -->
-  <Ben /><!--Ben is Back 15-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Ben /><!--Ben is Back 15-->
   <Bohemian /><!--Bohemian Rhapsody -->
   <Erased /><!--Boy Erased-->
-  <Bumblebee /><!--Bumblebee -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bumblebee /><!--Bumblebee -->
   <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
-  <Forgive /><!--Can You Ever Forgive Me -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
   <Cold /><!--cold Pursuit -->
-  <Dragonball />-<!--Dragon Ball Super -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dragonball />-<!--Dragon Ball Super -->
+  <Eighth /><!--Eighth Grade -->
   <Dragonworld /><!--How to Train Your Dragon the Hidden -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Five /><!--Five Feet Apart-->
   <Everybody /><!--Everybody Knows -->
+  <Glass /><!--Glass-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
   <Grinch /><!--Grinch-->
+  <Happy /><!--Happy Death Day -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Happy /><!--Happy Death Day -->
   <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
+  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Mid /><!--Mid 90s -->
   <Teacher /><!--The Kinder Teacher -->
   <Scots /><!--Mary Queen Of Scots -->
+  <Poppins /><!--Mary Poppins-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Poppins /><!--Mary Poppins-->
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
+  <Second /><!--Second Act-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Second /><!--Second Act-->
   <Sex /><!--On the basis of sex -->
   <Shazam /><!--Shazam-->
+  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Stan/><!--Stan & Ollie -->
   <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
+  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Favourite /><!--The Favourite -->
   <Sister /><!--The sisters Brother -->
   <Upside /><!--The Upside -->
+  <Vanishing /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Vanishing /><!--The Vanishing-->
   <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
+  <Blank />
   </b-card-group>
 
 
@@ -228,6 +235,8 @@ import Mid from '@/components/Films/Mid/Mid'
 import Teacher from '@/components/Films/Teacher/Teacher'
 import Sex from '@/components/Films/Sex/Sex'
 import Favourite from '@/components/Films/Favourite/Favourite'
+import Avengers from '@/components/Films/Avengers/Avengers'
+import Eighth from '@/components/Films/Eighth/Eighth'
 
 
 
@@ -250,6 +259,7 @@ export default {
     Airaa,
     Alita,
     Aquaman,
+    Avengers,
     Badla,
     Bala,
     Band,
@@ -273,6 +283,7 @@ export default {
     Dog,
     Dragonball,
     Dragonworld,
+    Eighth,
     Erased,
     Escape,
     Everybody,

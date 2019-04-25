@@ -1,10 +1,12 @@
+
+
 <template>
 <section show class="showcase">
   <div class="intro" >
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Thursday<br>25th April 2019</font></h1>
+    <h1> <font color="gold"><br>Friday<br>26th April 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -35,7 +37,7 @@ Statford
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
+<!--
 <h3 class="labour"> The Dreamboys<br>
 
 <b-embed type="iframe"
@@ -50,7 +52,7 @@ Statford
 </h3>
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

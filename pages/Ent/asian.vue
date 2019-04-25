@@ -3,20 +3,13 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 21st April 2019</h2>
+    <h2>Friday 26th April 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
-    <Gully /><!--Gully Boy -->
     <Lucifer /><!--Lucifer-->
     <ManjeC /><!--Manje Bistre 2-->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <SherdilC /><!--SherDil-->
-    <Blank />
-    <Blank />
+    <blank />
     </b-card-group>
 
 
@@ -27,6 +20,7 @@
       <!--<Airaa Airaa -->
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
+      <!--<Gully --Gully Boy -->
 
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
@@ -73,6 +67,7 @@
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
       <!--<SuperC /--Super Deluxe -->
+      <!--<SherdilC /--SherDil-->
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
