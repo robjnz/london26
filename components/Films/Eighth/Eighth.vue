@@ -11,8 +11,8 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <EighthyR />
-    <EighthF />
+    <eighthyR />
+    <eighthF />
     <Eighteen />
   </b-button-group>
 
@@ -20,20 +20,8 @@
 </template>
 
 <script>
-import Bexleyheathbutton from '@/components/Cineworld/Bexleyheathbutton'
-import Greenwichbutton from '@/components/Cineworld/Greenwichbutton'
-import Ilfordbutton from '@/components/Cineworld/Ilfordbutton'
-import Westbutton from '@/components/Cineworld/Westbutton'
-import Ogreenwichbutton from '@/components/Odeon/Ogreenwichbutton'
-import Osouthbutton from '@/components/Odeon/Osouthbutton'
-import Pgreenwichbutton from '@/components/Picturehouses/Pgreenwichbutton'
-import Phackneybutton from '@/components/Picturehouses/Phackneybutton'
-import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
-import Newhambutton from '@/components/Showcase/Newhambutton'
-import Romfordbutton from '@/components/Cinevue/Romfordbutton'
-import Vstratford from '@/components/Cinevue/Vstratford'
-import EighthR from '@/components/Films/Eighth/EighthR'
-import EighthF from '@/components/Films/Eighth/EighthF'
+import eighthR from '@/components/Films/eighth/eighthR'
+import eighthF from '@/components/Films/eighth/eighthF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -41,20 +29,8 @@ import Eighteen from '@/components/Films/Year/Eighteen'
 
 export default {
   components: {
-    Bexleyheathbutton,
-    Greenwichbutton,
-    Ilfordbutton,
-    Westbutton,
-    Ogreenwichbutton,
-    Osouthbutton,
-    Pgreenwichbutton,
-    Phackneybutton,
-    Pstratfordbutton,
-    Newhambutton,
-    Romfordbutton,
-    Vstratford,
-    EighthR,
-    EighthF,
+    eighthR,
+    eighthF,
     Eighteen,
 
       }

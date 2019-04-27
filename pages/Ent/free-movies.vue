@@ -1,3 +1,4 @@
+
 <template>
 <section main>
   <b-container>
@@ -41,8 +42,8 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Dragonball />-<!--Dragon Ball Super -->
-  <Eighth /><!--Eighth Grade -->
+  <Dragonball /><!--Dragon Ball Super -->
+  <eighth /><!--Eighth Grade -->
   <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   </b-card-group>
 
@@ -236,7 +237,7 @@ import Teacher from '@/components/Films/Teacher/Teacher'
 import Sex from '@/components/Films/Sex/Sex'
 import Favourite from '@/components/Films/Favourite/Favourite'
 import Avengers from '@/components/Films/Avengers/Avengers'
-import Eighth from '@/components/Films/Eighth/Eighth'
+import eighth from '@/components/Films/eighth/eighth'
 
 
 
@@ -283,7 +284,7 @@ export default {
     Dog,
     Dragonball,
     Dragonworld,
-    Eighth,
+    eighth,
     Erased,
     Escape,
     Everybody,

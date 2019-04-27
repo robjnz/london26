@@ -1,3 +1,4 @@
+
 <template>
 <section>
   <b-container>
@@ -14,7 +15,7 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <EighthC /><!--Eighth Grade -->
+  <eighthC /><!--Eighth Grade -->
     <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
     </b-card-group>
@@ -240,7 +241,7 @@ import Kesari from '@/components/Films/Kesari'
 import GretaC from '@/components/Films/Greta/GretaC'
 import JoanC from '@/components/Films/Joan/JoanC'
 import AvengersC from '@/components/Films/Avengers/AvengersC'
-import EighthC from '@/components/Films/Eighth/EighthC'
+import eighthC from '@/components/Films/eighth/eighthC'
 
 
 
@@ -296,7 +297,7 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
-    EighthC,
+    eighthC,
     Escape,
     EscapeC,
     Everybody,

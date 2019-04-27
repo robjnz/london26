@@ -7,16 +7,16 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Dreamboys">
+<b-card bg-variant="dark" text-variant="white" title= "The Storm - James Wilton Dance">
   <p class="title-color">
     <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/xiXsFXLTJMk"
+          src    = "https://www.youtube.com/embed/Kq31sHs9cUo"
           allowfullscreen
   ></b-embed>
 
     Broadway Theatre Barking<br>
-     Thurs 25 Apr 2019 @ 8pm
+    Thurs 2 May 2019 7.30pm
 
 
     </p>
