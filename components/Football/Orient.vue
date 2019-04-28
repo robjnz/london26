@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Sat 27 April 2019 12.30pm<br>V<br>Braintree Town
+<br>
 
 </p>
 </b-card>

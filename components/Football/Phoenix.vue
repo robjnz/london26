@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Sat 28th April 2019 @ 3pm<br>V <br>Herne Bay
+<br>
 
 
 </p>

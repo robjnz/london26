@@ -4,14 +4,21 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 26th April 2019</h2>
+    <h2>Sunday 28th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
+    <DogC /><!--A Dog's Way Home-->
     <AvengersC /><!--Avengers Endgame -->
+    <CantoC /><!--Bel Canto -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <MarvelC /><!-- Captain Marvel -->
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <Dumbo /><!--Dumbo -->
-  </b-card-group>
+</b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
@@ -22,30 +29,37 @@
 
   <b-card-group deck
   class="mb-3 ">
+    <Lego /><!--Lego-->
     <LittleC /><!--Little -->
   <MidC /><!--Mid 90s -->
-  <MissingC /><!--Missing Link-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <FavouriteC /><!--The Favourite -->
+  <MissingC /><!--Missing Link-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
   <JoanC /><!--Red Joan-->
   <ShazamC /><!--Shazam-->
-  <SisterC /><!--The sisters Brother -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <SisterC /><!--The sisters Brother -->
   <UsC /><!--Us-->
   <Rose /><!----Wild Rose -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <WonderC /><!--Wonder park -->
+  <blank />
+  <Blank />
   </b-card-group>
 
 
@@ -58,7 +72,6 @@
       <!--<Border --Border -->
       <!-- <BlueC />--Out Of Blue -->
 
-      <!--<DogC --A Dog's Way Home-->
 
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
@@ -73,7 +86,6 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
-      <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
 
       <!--<EscapeC --Escape Room -->
       <!--<FamilyC --Instant Family  -->
@@ -103,6 +115,7 @@
 <!--  <Lords /--Lords of chaos-->
 
       <!--<Bala --Miss Bala-->
+  <!--<FavouriteC />--The Favourite -->
 
       <!--Maiden --Maiden-->
       <!--<PoppinsC /--Mary Poppins-->
@@ -111,7 +124,6 @@
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
-      <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
@@ -242,6 +254,7 @@ import GretaC from '@/components/Films/Greta/GretaC'
 import JoanC from '@/components/Films/Joan/JoanC'
 import AvengersC from '@/components/Films/Avengers/AvengersC'
 import eighthC from '@/components/Films/eighth/eighthC'
+import CantoC from '@/components/Films/Canto/CantoC'
 
 
 
@@ -287,6 +300,7 @@ export default {
     BoyC,
     Bumblebee,
     Burning,
+    CantoC,
     Caper,
     Cold,
     Colette,

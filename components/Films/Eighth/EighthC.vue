@@ -49,7 +49,7 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <eighthyR />
+    <eighthR />
     <eighthF />
     <Eighteen />
   </b-button-group>

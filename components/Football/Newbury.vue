@@ -5,7 +5,7 @@
 
 
 
-<br>Sat 27 April 2019 @ 3pm<br>V<br>Little Oakley
+<br>
 
 </p>
 </b-card>

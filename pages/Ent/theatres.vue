@@ -25,10 +25,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Long Walk Back">
+<b-card bg-variant="dark" text-variant="white" title= "Our House">
   <p class="title-color">
     Greenwich Theatre<br>
-    24 - 27 April 2019
+    Mon 29 April - Sat 4 May 2019
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
@@ -51,17 +51,17 @@
 <b-card bg-variant="dark" text-variant="white" title= "Block Universe">
   <p class="title-color">
     Hoxton Hall<br>
-    Thu 30 May - Fri 31 May @ 7.30pm
+    Thurs 30 May - Fri 31 May @ 7.30pm
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "And Then There Were None">
+<b-card bg-variant="dark" text-variant="white" title= "Rock 'n' Roll Paradise">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 25 - Sat 27 April 2019
+    Fri 3 May 2019 # 7.30 pm
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
@@ -99,10 +99,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Jay Chou">
+<b-card bg-variant="dark" text-variant="white" title= "The Original Harlem Globetrotters 2019">
   <p class="title-color">
     The O2 arena<br>
-    26 - 27 April 2019 @ 8pm
+    Tue 30 Apr 2019 @ 7.30pm
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>

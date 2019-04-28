@@ -3,13 +3,20 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 26th April 2019</h2>
+    <h2>Sunday 28th April 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
-    <Lucifer /><!--Lucifer-->
+    <KalankC /><!--Kalank-->
+    <KanchanaC /><!--Kanchana 3 -->
     <ManjeC /><!--Manje Bistre 2-->
-    <blank />
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <NadhooC /><!--Nadhoo Khan -->
+    <Blank />
+    <Blank />
     </b-card-group>
 
 
@@ -53,6 +60,7 @@
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
     <!--<Luka /--Luka Chuppi  -->
+    <!--<Lucifer /--Lucifer-->
 
       <!--<Bala --Miss Bala-->
 
@@ -189,6 +197,9 @@ import SherdilC from '@/components/Films/Sherdil/SherdilC'
 import SuperC from '@/components/Films/Super/SuperC'
 import MidC from '@/components/Films/Mid/MidC'
 import Kesari from '@/components/Films/Kesari'
+import KalankC from '@/components/Films/Kalank/KalankC'
+import KanchanaC from '@/components/Films/Kanchana/KanchanaC'
+import NadhooC from '@/components/Films/Nadhoo/NadhooC'
 
 
 
@@ -267,6 +278,8 @@ export default {
     HappyC,
     HellboyC,
     Kala,
+    KalankC,
+    KanchanaC,
     KeeperC,
     Kesari,
     KingC,
@@ -288,6 +301,7 @@ export default {
     MissingC,
     Ml,
     Mule,
+    NadhooC,
     Notebook,
     Peppa,
     PetC,

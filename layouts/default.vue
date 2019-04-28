@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Navbar />
     <TheHeader/>
     <TheFooter />
     <main class="main-content">

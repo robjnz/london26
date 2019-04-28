@@ -79,35 +79,35 @@
   class="mb-3 ">
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
-  <Second /><!--Second Act-->
+  <Joan /><!--Red Joan-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Second /><!--Second Act-->
   <Sex /><!--On the basis of sex -->
   <Shazam /><!--Shazam-->
-  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Stan/><!--Stan & Ollie -->
   <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
-  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <Sister /><!--The sisters Brother -->
   <Upside /><!--The Upside -->
-  <Vanishing /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Vanishing /><!--The Vanishing-->
   <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
 
@@ -238,6 +238,7 @@ import Sex from '@/components/Films/Sex/Sex'
 import Favourite from '@/components/Films/Favourite/Favourite'
 import Avengers from '@/components/Films/Avengers/Avengers'
 import eighth from '@/components/Films/eighth/eighth'
+import Joan from '@/components/Films/Joan/Joan'
 
 
 
@@ -304,6 +305,7 @@ export default {
     Hannah,
     Happy,
     Hole,
+    Joan,
     Kala,
     King,
     Kobiety,

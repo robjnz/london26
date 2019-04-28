@@ -11,8 +11,8 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
@@ -50,6 +50,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
     <JoanR />
+    <JoanF />
     <Nineteen />
   </b-button-group>
 
@@ -70,6 +71,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import JoanR from '@/components/Films/Joan/JoanR'
+import JoanF from '@/components/Films/Joan/JoanF'
 import Nineteen from '@/components/Films/Year/Nineteen'
 
 
@@ -90,6 +92,7 @@ export default {
     Romfordbutton,
     Vstratford,
     JoanR,
+    JoanF,
     Nineteen,
 
       }
