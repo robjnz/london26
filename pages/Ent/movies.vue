@@ -4,27 +4,27 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 28th April 2019</h2>
+    <h2>Monday 29th April 2019</h2>
 
     <b-card-group deck
     class="mb-3">
-    <DogC /><!--A Dog's Way Home-->
     <AvengersC /><!--Avengers Endgame -->
     <CantoC /><!--Bel Canto -->
+    <MarvelC /><!-- Captain Marvel -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <MarvelC /><!-- Captain Marvel -->
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+    <ConcreteC /><!--Dragged Across Concrete -->
     <Dumbo /><!--Dumbo -->
-</b-card-group>
+  <eighthC /><!--Eighth Grade -->
+  </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <eighthC /><!--Eighth Grade -->
     <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
+    <FamilyC /><!--Instant Family  -->
     </b-card-group>
 
   <b-card-group deck
@@ -43,22 +43,22 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
   <JoanC /><!--Red Joan-->
   <ShazamC /><!--Shazam-->
+  <CatC /><!--Spy Cat -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <StyxC /><!--Styx -->
   <SisterC /><!--The sisters Brother -->
   <UsC /><!--Us-->
-  <Rose /><!----Wild Rose -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Rose /><!----Wild Rose -->
   <WonderC /><!--Wonder park -->
-  <blank />
   <Blank />
   </b-card-group>
 
@@ -71,6 +71,7 @@
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
       <!-- <BlueC />--Out Of Blue -->
+      <!--<DogC --A Dog's Way Home-->
 
 
       <!--True --All Is True 12A"-->
@@ -86,9 +87,9 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
+      <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
 
       <!--<EscapeC --Escape Room -->
-      <!--<FamilyC --Instant Family  -->
       <!--<Lion /--Eaten by Lion -->
 
       <!--<EverybodyC />--Everybody Knows -->
@@ -124,6 +125,7 @@
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
+      <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
@@ -255,6 +257,10 @@ import JoanC from '@/components/Films/Joan/JoanC'
 import AvengersC from '@/components/Films/Avengers/AvengersC'
 import eighthC from '@/components/Films/eighth/eighthC'
 import CantoC from '@/components/Films/Canto/CantoC'
+import CatC from '@/components/Films/Cat/CatC'
+import ConcreteC from '@/components/Films/Concrete/ConcreteC'
+import StyxC from '@/components/Films/Styx/StyxC'
+
 
 
 
@@ -302,8 +308,10 @@ export default {
     Burning,
     CantoC,
     Caper,
+    CatC,
     Cold,
     Colette,
+    ConcreteC,
     Creed,
     Crow,
     Destroyer,
@@ -378,6 +386,7 @@ export default {
     SherdilC,
     SisterC,
     Spider,
+    StyxC,
     SuperC,
     Total,
     True,

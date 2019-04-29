@@ -8,19 +8,19 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
 <!--<Ilfordbutton />-->
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
-  <Osouthbutton />
+ <!--<Ogreenwichbutton />-->
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -40,14 +40,15 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <!--<Romfordbutton />-->
-  <Vstratford />
+  <Romfordbutton />
+  <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
     <MissingR />
-
+    <MissingF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -68,6 +69,8 @@ import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import MissingR from '@/components/Films/Missing/MissingR'
 import MissingF from '@/components/Films/Missing/MissingF'
+import Nineteen from '@/components/Films/Year/Nineteen'
+
 
 
 
@@ -88,6 +91,7 @@ export default {
     Vstratford,
     MissingR,
     MissingF,
+    Nineteen,
 
       }
 }

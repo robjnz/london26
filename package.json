@@ -1,22 +1,22 @@
 {
-  "name": "london",
-  "version": "1.0.0",
-  "description": "Sunday 28th April 2019, What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, places to visit for days out in east London, places to eat, job search resources and much more!",
-  "author": "robin harris",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
+  "name"       : "london",
+  "version"    : "1.0.0",
+  "description": "Tuesday 30th April 2019, What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, places to visit for days out in east London, places to eat, job search resources and much more!",
+  "author"     : "robin harris",
+  "private"    : true,
+  "scripts"    : {
+    "dev"     : "nuxt",
+    "build"   : "nuxt build",
+    "start"   : "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap"               : "^4.3.1",
     "bootstrap-navbar-sidebar": "^4.0.2",
-    "bootstrap-vue": "^2.0.0-rc.19",
-    "cross-env": "^5.2.0",
-    "jquery": "^3.4.0",
-    "nuxt": "^2.6.3"
+    "bootstrap-vue"           : "^2.0.0-rc.19",
+    "cross-env"               : "^5.2.0",
+    "jquery"                  : "^3.4.0",
+    "nuxt"                    : "^2.6.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"

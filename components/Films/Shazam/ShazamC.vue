@@ -14,7 +14,7 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+<Ilfordbutton />
 <Westbutton />
   </b-button-group>
 

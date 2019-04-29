@@ -41,7 +41,7 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <!--<Romfordbutton />-->
-  <!--<Vstratford />-->
+  <Vstratford />
   </b-button-group>
 
 </b-card>
