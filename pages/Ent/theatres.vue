@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>April 2019</h2>
+    <h2>May 2019</h2>
     <br>
     <b-card-group deck
       class="mb-3">
@@ -61,7 +61,7 @@
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Fri 3 May 2019 # 7.30 pm
+    Fri 3 May 2019 @ 7.30 pm
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
@@ -165,7 +165,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, April 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, May 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }
