@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Wednesday<br>1st May 2019</font></h1>
+    <h1> <font color="gold"><br>Thursday<br>2nd May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -35,22 +35,22 @@ Statford
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<!--
-<h3 class="labour"> The Dreamboys<br>
+
+<h3 class="labour"> The Storm - James Wilton Dance<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/xiXsFXLTJMk"
+          src    = "https://www.youtube.com/embed/Kq31sHs9cUo"
           allowfullscreen
   ></b-embed>
 
     Showing today @
   <br> Broadway Theatre Barking
-  <br>@<br>8pm
+  <br>@<br>7.30pm
 </h3>
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>

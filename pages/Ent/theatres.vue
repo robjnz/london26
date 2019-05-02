@@ -99,10 +99,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Original Harlem Globetrotters 2019">
+<b-card bg-variant="dark" text-variant="white" title= "Take That Greatest Hits Live">
   <p class="title-color">
     The O2 arena<br>
-    Tue 30 Apr 2019 @ 7.30pm
+    Thurs 2 May - Fri 10 May 2019
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
