@@ -36,7 +36,7 @@ Statford
 <br>
 <br>
 
-<h3 class="labour"> The Storm - James Wilton Dance<br>
+<h3 class="labour"> The Storm<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
