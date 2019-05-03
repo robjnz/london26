@@ -7,16 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Storm - James Wilton Dance">
+<b-card bg-variant="dark" text-variant="white" title= "In the Woods">
   <p class="title-color">
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/Kq31sHs9cUo"
-          allowfullscreen
-  ></b-embed>
 
     Broadway Theatre Barking<br>
-    Thurs 2 May 2019 7.30pm
+    Sat 4 - Sun 12 May 2019
 
 
     </p>
@@ -34,10 +29,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Laugh in the Face of Hate">
+<b-card bg-variant="dark" text-variant="white" title= "Peter Pan">
   <p class="title-color">
     Hackney Empire<br>
-    Mon 29 April @ 7.30pm
+    Sat 4 May @ 3pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -57,11 +52,11 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Rock 'n' Roll Paradise">
+<b-card bg-variant="dark" text-variant="white" title= "Sally's Dance Academy">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Fri 3 May 2019 @ 7.30 pm
+    Sat 4 - Sun 5 May 2019
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
