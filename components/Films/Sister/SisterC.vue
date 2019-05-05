@@ -29,8 +29,8 @@ It's 1851, and Charlie and Eli Sisters are both brothers and assassins, boys gro
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
+  <!--<Pgreenwichbutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>

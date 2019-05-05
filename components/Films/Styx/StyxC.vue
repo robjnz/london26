@@ -27,8 +27,8 @@ A doctor spends her annual vacation sailing from Gibraltar to the small island o
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
+  <!--<Pgreenwichbutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>

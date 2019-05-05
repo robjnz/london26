@@ -5,7 +5,7 @@
 
 
 
-<br>Sat 4th May 2019 @ 5.30pm<br>V <br> Rochdale
+<br>
 
 </p>
 

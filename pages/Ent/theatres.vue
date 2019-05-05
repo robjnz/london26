@@ -29,10 +29,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Peter Pan">
+<b-card bg-variant="dark" text-variant="white" title= "Alter Ego 2019 Final">
   <p class="title-color">
     Hackney Empire<br>
-    Sat 4 May @ 3pm
+    Fri 10 May @ 7.30pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>

@@ -44,77 +44,84 @@
   class="mb-3 ">
   <Concrete /><!--Dragged Across Concrete -->
   <Dragonball /><!--Dragon Ball Super -->
-  <eighth /><!--Eighth Grade -->
+  <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <eighth /><!--Eighth Grade -->
   <Dragonworld /><!--How to Train Your Dragon the Hidden -->
   <Five /><!--Five Feet Apart-->
-  <Everybody /><!--Everybody Knows -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Everybody /><!--Everybody Knows -->
   <Glass /><!--Glass-->
   <Green /><!--Green Book-->
-  <Grinch /><!--Grinch-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Grinch /><!--Grinch-->
   <Happy /><!--Happy Death Day -->
   <Beale /><!--If Beale Street Could talk-->
-  <Family /><!--Instant Family  -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Family /><!--Instant Family  -->
   <Mid /><!--Mid 90s -->
   <Teacher /><!--The Kinder Teacher -->
-  <Scots /><!--Mary Queen Of Scots -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
   <Missing /><!--Missing Link-->
-  <Blue /><!--Out Of Blue -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
   <Joan /><!--Red Joan-->
-  <Second /><!--Second Act-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Second /><!--Second Act-->
   <Sex /><!--On the basis of sex -->
   <Shazam /><!--Shazam-->
-  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Stan/><!--Stan & Ollie -->
   <Styx /><!--Styx -->
   <Hole /><!--The Hole In The Ground-->
-  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
   <Favourite /><!--The Favourite -->
   <Sister /><!--The sisters Brother -->
-  <Upside /><!--The Upside -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
   <Had /><!--What They Had -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Wonder /><!--Wonder park -->
+  <Blank />
+  <Blank />
   </b-card-group>
 
 
@@ -192,7 +199,7 @@ import Ring from '@/components/Films/Ring'
 import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
 import Crow from '@/components/Films/Crow'
-import Dumbo from '@/components/Films/Dumbo'
+import Dumbo from '@/components/Films/Dumbo/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import Blue from '@/components/Films/Blue/Blue'
@@ -295,6 +302,7 @@ export default {
     Dog,
     Dragonball,
     Dragonworld,
+    Dumbo,
     eighth,
     Erased,
     Escape,
@@ -360,7 +368,6 @@ export default {
     Vanishing,
     Vice,
     War,
-    Dumbo,
     Junglee,
     Lion,
     Wonder,

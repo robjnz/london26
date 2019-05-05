@@ -14,24 +14,24 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
-<Westbutton />
+<!--<Ilfordbutton />-->
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
  <Ogreenwichbutton />
-  <Osouthbutton />
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
   <!--<Pgreenwichbutton />-->
-  <Phackneybutton />
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>

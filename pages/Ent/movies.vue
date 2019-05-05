@@ -4,54 +4,47 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Monday 29th April 2019</h2>
+    <h2>Monday 6th May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
+    <DogC /><!--A Dog's Way Home-->
     <AvengersC /><!--Avengers Endgame -->
-    <CantoC /><!--Bel Canto -->
     <MarvelC /><!-- Captain Marvel -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <ConcreteC /><!--Dragged Across Concrete -->
-    <Dumbo /><!--Dumbo -->
+    <DumboC /><!--Dumbo -->
   <eighthC /><!--Eighth Grade -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <GretaC /><!--Greta -->
-    <HellboyC /><!--Heliboy-->
-    <FamilyC /><!--Instant Family  -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Lego /><!--Lego-->
+    <HellboyC /><!--Heliboy-->
+    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <LittleC /><!--Little -->
-  <MidC /><!--Mid 90s -->
-  </b-card-group>
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <MidC /><!--Mid 90s -->
   <MissingC /><!--Missing Link-->
   <Peppa /><!--Peppa Pig Festival of Fun-->
-  <PetC /><!--Pet Sematary-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <PetC /><!--Pet Sematary-->
   <JoanC /><!--Red Joan-->
   <ShazamC /><!--Shazam-->
-  <CatC /><!--Spy Cat -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <StyxC /><!--Styx -->
-  <SisterC /><!--The sisters Brother -->
+  <Spider /><!--Spider-Man Into The Spider-Verse -->
+  <CatC /><!--Spy Cat -->
   <UsC /><!--Us-->
   </b-card-group>
 
@@ -71,13 +64,16 @@
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
       <!-- <BlueC />--Out Of Blue -->
-      <!--<DogC --A Dog's Way Home-->
 
 
       <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--<Band /--Band Vaaje-->
+      <!--<CantoC />--Bel Canto -->
+
+      <!--<ConcreteC /--Dragged Across Concrete -->
+
       <!--<BealeC --If Beale Street Could talk-->
 
       <!--Black --Blackklansman -->
@@ -87,12 +83,13 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
-      <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
 
       <!--<EscapeC --Escape Room -->
       <!--<Lion /--Eaten by Lion -->
 
       <!--<EverybodyC />--Everybody Knows -->
+      <!--<FamilyC /--Instant Family  -->
+
       <!--<FightingC /--Fighting With My Family -->
       <!--<Fisherman --Fisherman’s Friend -->
 
@@ -112,6 +109,8 @@
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
+      <!--<Lego />--Lego-->
+
       <!--<Luka />--Luka Chuppi  -->
 <!--  <Lords /--Lords of chaos-->
 
@@ -129,7 +128,9 @@
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
-      <!--<Spider /- Spider-Man Into The Spider-Verse -->
+      <!--<SisterC />--The sisters Brother -->
+      <!--<StyxC />--Styx -->
+
 
       <!--<Total /><-Total Dhamal  -->
   <!--<ScotsC />--Mary Queen Of Scots -->
@@ -188,7 +189,7 @@ import Ring from '@/components/Films/Ring'
 import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
 import Crow from '@/components/Films/Crow'
-import Dumbo from '@/components/Films/Dumbo'
+import DumboC from '@/components/Films/Dumbo/DumboC'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import BlueC from '@/components/Films/Blue/BlueC'
@@ -394,7 +395,7 @@ export default {
     VanishingC,
     Vice,
     War,
-    Dumbo,
+    DumboC,
     Junglee,
     Lion,
     UsC,

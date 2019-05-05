@@ -3,18 +3,11 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 28th April 2019</h2>
+    <h2>Monday 6th May 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
     <KalankC /><!--Kalank-->
-    <KanchanaC /><!--Kanchana 3 -->
-    <ManjeC /><!--Manje Bistre 2-->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <NadhooC /><!--Nadhoo Khan -->
     <Blank />
     <Blank />
     </b-card-group>
@@ -54,6 +47,7 @@
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
       <!--<Kesari /--Kesari -->
+      <!--<KanchanaC />--Kanchana 3 -->
 
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
@@ -63,9 +57,12 @@
     <!--<Lucifer /--Lucifer-->
 
       <!--<Bala --Miss Bala-->
+      <!--<ManjeC />--Manje Bistre 2-->
 
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
+        <!--<NadhooC />--Nadhoo Khan -->
+
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
@@ -133,7 +130,6 @@ import Ring from '@/components/Films/Ring'
 import Hannah from '@/components/Films/Hannah'
 import Rose from '@/components/Films/Rose'
 import Crow from '@/components/Films/Crow'
-import Dumbo from '@/components/Films/Dumbo'
 import Junglee from '@/components/Films/Junglee'
 import Lion from '@/components/Films/Lion'
 import BlueC from '@/components/Films/Blue/BlueC'
@@ -327,7 +323,6 @@ export default {
     VanishingC,
     Vice,
     War,
-    Dumbo,
     Junglee,
     Lion,
     UsC,

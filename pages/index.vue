@@ -4,16 +4,16 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Saturday<br>4th May 2019</font></h1>
+    <h1> <font color="gold"><br>Sunday<br>5th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 
 <h3 class="title-color">
 
-  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544636784/west_ham_fc_wrookz.png" alt="west ham F.C."/>
-West Ham United F.C..<br>V<br>Southampton<br> @ 3pm
+  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544943996/leyton_orient_wltsdq.jpg" alt="leyton orient womans team F.C."/>
+Leyton Orient F.C. <br>Womans Team<br>V<br>Crawley Wasps<br>
 <br>
-<b-button href="https://kutt.it/westham-fc" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/orient-women" target="_blank" variant="info">open</b-button>
 </h3>
 
 <h3 class ="tory">
@@ -46,7 +46,7 @@ Statford
 -->
     Showing today @
   <br> Broadway Theatre Barking
-  <br>@<br>7.30pm
+  <br>@<br>5pm
 </h3>
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>

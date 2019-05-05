@@ -4,7 +4,7 @@
 <p class="title-color">
 
 
-<br>Sat 4 May 2019 @ 3pm <br>V<br>Southampton
+<br>
 
 </p>
 </b-card>

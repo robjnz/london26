@@ -14,7 +14,7 @@
 <br><br>
 <b-button-group>
 <Ilfordbutton />
-<!--<Westbutton />-->
+<Westbutton />
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
@@ -25,7 +25,7 @@
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
+  <!--<Pgreenwichbutton />-->
   <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
@@ -41,13 +41,14 @@
   <h4 class="title-color">Vue</h4>
   <b-button-group>
   <Romfordbutton />
- <!--<Vstratford />-->
+ <Vstratford />
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
     <DumboR />
-
+    <DumboF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -66,7 +67,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import DumboR from '@/components/ReviewMovies/DumboR'
+import DumboR from '@/components/Films/Dumbo/DumboR'
+import DumboF from '@/components/Films/Dumbo/DumboF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -86,6 +89,8 @@ export default {
     Romfordbutton,
     Vstratford,
     DumboR,
+    DumboF,
+    Nineteen,
 
       }
 }
