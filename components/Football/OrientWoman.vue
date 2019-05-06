@@ -4,7 +4,7 @@
 <h5>Woman Team</h5>
 <p class="title-color">
 
-<br>Sun 5 May 2019 <br>V<br>Crawley Wasps
+<br>
 
 </p>
 </b-card>

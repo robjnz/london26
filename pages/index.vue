@@ -4,10 +4,10 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>5th May 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>6th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-
+<!--
 <h3 class="title-color">
 
   Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544943996/leyton_orient_wltsdq.jpg" alt="leyton orient womans team F.C."/>
@@ -15,7 +15,7 @@ Leyton Orient F.C. <br>Womans Team<br>V<br>Crawley Wasps<br>
 <br>
 <b-button href="https://kutt.it/orient-women" target="_blank" variant="info">open</b-button>
 </h3>
-
+-->
 <h3 class ="tory">
 <br>Red Joan<br>
 
@@ -35,22 +35,21 @@ Statford
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-
-<h3 class="labour">In the Woods<br>
 <!--
+<h3 class="labour">In the Woods<br>
+
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/Kq31sHs9cUo"
           allowfullscreen
   ></b-embed>
--->
     Showing today @
   <br> Broadway Theatre Barking
   <br>@<br>5pm
 </h3>
 <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 <br><br>
-
+-->
     </b-badge>
 
     </div>

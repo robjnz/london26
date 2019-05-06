@@ -20,10 +20,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Our House">
+<b-card bg-variant="dark" text-variant="white" title= "The Sign of Four">
   <p class="title-color">
     Greenwich Theatre<br>
-    Mon 29 April - Sat 4 May 2019
+    Tues 7 - Sat 11 May 2019
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
@@ -52,11 +52,11 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Sally's Dance Academy">
+<b-card bg-variant="dark" text-variant="white" title= "Little Shop of Horrors">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Sat 4 - Sun 5 May 2019
+    Thu 16 - Sat 18 May 2019
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
@@ -84,10 +84,17 @@
 
     <b-card-group deck
       class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Noughts & Crosses">
+  <b-card bg-variant="dark" text-variant="white" title= "King Hedley II">
   <p class="title-color">
+      <p class="title-color">
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/rdIhxQSm6Rg"
+          allowfullscreen
+  ></b-embed>
+
     Theatre Royal Stratford East<br>
-    Wed 24 April - Sat 4 May 2019
+    Fri 17 - Sat 15 June 2019
 
     </p>
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
