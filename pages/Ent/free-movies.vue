@@ -29,41 +29,34 @@
   <b-card-group deck
   class="mb-3 ">
   <Bumblebee /><!--Bumblebee -->
-  <Escape /><!--Escape Room -->
-  <Fighting /><!--Fighting With My Family -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
-  <Cold /><!--cold Pursuit -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Cold /><!--cold Pursuit -->
   <Concrete /><!--Dragged Across Concrete -->
   <Dragonball /><!--Dragon Ball Super -->
-  <Dumbo /><!--Dumbo -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <eighth /><!--Eighth Grade -->
-  <Dragonworld /><!--How to Train Your Dragon the Hidden -->
+    <Dumbo /><!--Dumbo -->
+    <eighth /><!--Eighth Grade -->
+    <Escape /><!--Escape Room -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Fighting /><!--Fighting With My Family -->
   <Five /><!--Five Feet Apart-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Everybody /><!--Everybody Knows -->
   <Glass /><!--Glass-->
-  <Green /><!--Green Book-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Grinch /><!--Grinch-->
+  <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
   <Beale /><!--If Beale Street Could talk-->
   </b-card-group>
@@ -71,8 +64,8 @@
   <b-card-group deck
   class="mb-3 ">
   <Family /><!--Instant Family  -->
+  <Shot /><!--Long shot-->
   <Mid /><!--Mid 90s -->
-  <Teacher /><!--The Kinder Teacher -->
   </b-card-group>
 
   <b-card-group deck
@@ -84,44 +77,51 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <Sex /><!--On the basis of sex -->
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Pokemon /><!-- Pokemon Detective Pikachu-->
   <Joan /><!--Red Joan-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Second /><!--Second Act-->
-  <Sex /><!--On the basis of sex -->
-  <Shazam /><!--Shazam-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Shazam /><!--Shazam-->
   <Stan/><!--Stan & Ollie -->
   <Styx /><!--Styx -->
-  <Hole /><!--The Hole In The Ground-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <King /><!--The Kid Who Would Be King-->
+  <Llorona /><!--The curse of la Llorona-->
   <Favourite /><!--The Favourite -->
-  <Sister /><!--The sisters Brother -->
+  <Grinch /><!--The Grinch-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Hole /><!--The Hole In The Ground-->
+  <King /><!--The Kid Who Would Be King-->
+  <Teacher /><!--The Kinder Teacher -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Sister /><!--The sisters Brother -->
   <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
-  <Had /><!--What They Had -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Tolkien /><!--Tolkien -->
+  <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
-  <Blank />
   </b-card-group>
 
 
@@ -131,6 +131,8 @@
       <!--<Bell --Bell bottom-->
       <!--Black --Blackklansman -->
       <!--Burning --Burning-->
+      <!--<Dragonworld />--How to Train Your Dragon the Hidden -->
+
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
       <!--<Kobiety --Kobiety Mafii 2 -->
@@ -255,7 +257,10 @@ import Joan from '@/components/Films/Joan/Joan'
 import Missing from '@/components/Films/Missing/Missing'
 import Concrete from '@/components/Films/Concrete/Concrete'
 import Styx from '@/components/Films/Styx/Styx'
-
+import Llorona from '@/components/Films/Llorona/Llorona'
+import Pokemon from '@/components/Films/Pokemon/Pokemon'
+import Shot from '@/components/Films/Shot/Shot'
+import Tolkien from '@/components/Films/Tolkien/Tolkien'
 
 
 
@@ -330,6 +335,7 @@ export default {
     Kodathi,
     Kumbalangi,
     Lego,
+    Llorona,
     Lucifer,
     Lords,
     Luka,
@@ -344,6 +350,7 @@ export default {
     Notebook,
     Peppa,
     Pet,
+    Pokemon,
     Poppins,
     Preview,
     Prodigy,
@@ -356,12 +363,14 @@ export default {
     Serenityx,
     Sex,
     Shazam,
+    Shot,
     Sister,
     Spider,
     Stan,
     Star,
     Styx,
     Teacher,
+    Tolkien,
     Total,
     True,
     Upside,

@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Monday 6th May 2019</h2>
+    <h2>Friday 10th May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -17,42 +17,56 @@
   class="mb-3 ">
     <DumboC /><!--Dumbo -->
   <eighthC /><!--Eighth Grade -->
-    <GretaC /><!--Greta -->
-    </b-card-group>
+  <Fisherman /><!--Fisherman’s Friend -->
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <GretaC /><!--Greta -->
     <HellboyC /><!--Heliboy-->
+    <LifeC /><!--High Life -->
+     </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
     <LittleC /><!--Little -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <MidC /><!--Mid 90s -->
   <MissingC /><!--Missing Link-->
-  <Peppa /><!--Peppa Pig Festival of Fun-->
-  </b-card-group>
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Peppa /><!--Peppa Pig Festival of Fun-->
   <PetC /><!--Pet Sematary-->
+  <PokemonC /><!-- Pokemon Detective Pikachu-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <JoanC /><!--Red Joan-->
   <ShazamC /><!--Shazam-->
-  </b-card-group>
+  <ShotC /><!--Long shot-->
+   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Spider /><!--Spider-Man Into The Spider-Verse -->
+  <SisterC /><!--The sisters Brother -->
   <CatC /><!--Spy Cat -->
+  <LloronaC /><!--The curse of la Llorona-->
+   </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <HustleC /><!--The Hustle-->
+  <TolkienC /><!--Tolkien-->
   <UsC /><!--Us-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <Rose /><!----Wild Rose -->
+  <womanWarC /><!--Woman at war -->
   <WonderC /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
 
@@ -91,7 +105,6 @@
       <!--<FamilyC /--Instant Family  -->
 
       <!--<FightingC /--Fighting With My Family -->
-      <!--<Fisherman --Fisherman’s Friend -->
 
       <!--<GlassC --Glass-->
       <!--<GreenC /--Green Book-->
@@ -121,6 +134,8 @@
       <!--<PoppinsC /--Mary Poppins-->
 
       <!--<Milan -Milan Talkies-->
+      <!--<MidC />--Mid 90s -->
+
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
@@ -128,7 +143,8 @@
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
-      <!--<SisterC />--The sisters Brother -->
+      <!--<Spider />--Spider-Man Into The Spider-Verse -->
+
       <!--<StyxC />--Styx -->
 
 
@@ -261,6 +277,13 @@ import CantoC from '@/components/Films/Canto/CantoC'
 import CatC from '@/components/Films/Cat/CatC'
 import ConcreteC from '@/components/Films/Concrete/ConcreteC'
 import StyxC from '@/components/Films/Styx/StyxC'
+import HustleC from '@/components/Films/Hustle/HustleC'
+import LifeC from '@/components/Films/Life/LifeC'
+import LloronaC from '@/components/Films/Llorona/LloronaC'
+import PokemonC from '@/components/Films/Pokemon/PokemonC'
+import ShotC from '@/components/Films/Shot/ShotC'
+import TolkienC from '@/components/Films/Tolkien/TolkienC'
+import WomanWarC from '@/components/Films/WomanWar/WomanWarC'
 
 
 
@@ -347,6 +370,7 @@ export default {
     Happy,
     HappyC,
     HellboyC,
+    HustleC,
     Kala,
     KeeperC,
     Kesari,
@@ -355,7 +379,9 @@ export default {
     Kodathi,
     Kumbalangi,
     Lego,
+    LifeC,
     LittleC,
+    LloronaC,
     Lucifer,
     Lords,
     Luka,
@@ -372,6 +398,7 @@ export default {
     Notebook,
     Peppa,
     PetC,
+    PokemonC,
     PoppinsC,
     Preview,
     Prodigy,
@@ -385,11 +412,13 @@ export default {
     Serenityx,
     ShazamC,
     SherdilC,
+    ShotC,
     SisterC,
     Spider,
     StyxC,
     SuperC,
     Total,
+    TolkienC,
     True,
     Vanishing,
     VanishingC,
@@ -399,6 +428,7 @@ export default {
     Junglee,
     Lion,
     UsC,
+    WomanWarC,
     WonderC,
       }
 }

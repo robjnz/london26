@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Tuesday<br>7th May 2019</font></h1>
+    <h1> <font color="gold"><br>Friday<br>10th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -17,11 +17,11 @@ Leyton Orient F.C. <br>Womans Team<br>V<br>Crawley Wasps<br>
 </h3>
 -->
 <h3 class ="tory">
-<br>Red Joan<br>
+<br>Tolkien<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/gkecgBW-Y80"
+          src    = "https://www.youtube.com/embed/ZwC2TNShdwY"
           allowfullscreen
   ></b-embed>
     Showing today @

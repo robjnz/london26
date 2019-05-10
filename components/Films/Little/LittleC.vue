@@ -22,7 +22,7 @@
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
+ <!--<Ogreenwichbutton />-->
   <!--<Osouthbutton />-->
   </b-button-group>
 
