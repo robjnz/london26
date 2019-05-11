@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 10th May 2019</h2>
+    <h2>Saturday 11th May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -13,61 +13,68 @@
     <MarvelC /><!-- Captain Marvel -->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
     <DumboC /><!--Dumbo -->
-  <eighthC /><!--Eighth Grade -->
-  <Fisherman /><!--Fisherman’s Friend -->
-   </b-card-group>
+    <eighthC /><!--Eighth Grade -->
+    <Fisherman /><!--Fisherman’s Friend -->
+    </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <GretaC /><!--Greta -->
+    <b-card-group deck
+    class="mb-3 ">
     <HellboyC /><!--Heliboy-->
     <LifeC /><!--High Life -->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <LittleC /><!--Little -->
-  <MissingC /><!--Missing Link-->
-   </b-card-group>
+    <ShotC /><!--Long shot-->
+    <MidC /><!--Mid 90s -->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Peppa /><!--Peppa Pig Festival of Fun-->
-  <PetC /><!--Pet Sematary-->
-  <PokemonC /><!-- Pokemon Detective Pikachu-->
-   </b-card-group>
+    <MissingC /><!--Missing Link-->
+    <Peppa /><!--Peppa Pig Festival of Fun-->
+    <PetC /><!--Pet Sematary-->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <JoanC /><!--Red Joan-->
-  <ShazamC /><!--Shazam-->
-  <ShotC /><!--Long shot-->
-   </b-card-group>
+    <PokemonC /><!-- Pokemon Detective Pikachu-->
+    <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
+    <JoanC /><!--Red Joan-->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <SisterC /><!--The sisters Brother -->
-  <CatC /><!--Spy Cat -->
-  <LloronaC /><!--The curse of la Llorona-->
-   </b-card-group>
+    <ShazamC /><!--Shazam-->
+    <Spider /><!--Spider-Man Into The Spider-Verse -->
+    <CatC /><!--Spy Cat -->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <HustleC /><!--The Hustle-->
-  <TolkienC /><!--Tolkien-->
-  <UsC /><!--Us-->
-  </b-card-group>
+    <StudentC /><!--Student of the year 2 -->
+    <CorruptedC/><!--The Corrupted-->
+    <LloronaC /><!--The curse of la Llorona-->
+    </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Rose /><!----Wild Rose -->
-  <womanWarC /><!--Woman at war -->
-  <WonderC /><!--Wonder park -->
-  </b-card-group>
+    <HustleC /><!--The Hustle-->
+    <TolkienC /><!--Tolkien-->
+    <UsC /><!--Us-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <Rose /><!----Wild Rose -->
+    <womanWarC /><!--Woman at war -->
+    <WonderC /><!--Wonder park -->
+    </b-card-group>
 
 
       <!--<Ml --90ML -->
@@ -108,6 +115,7 @@
 
       <!--<GlassC --Glass-->
       <!--<GreenC /--Green Book-->
+      <!--<GretaC /--Greta -->
 
 
       <!--<Guddiyan />--Guddiyan Patole -->
@@ -134,16 +142,15 @@
       <!--<PoppinsC /--Mary Poppins-->
 
       <!--<Milan -Milan Talkies-->
-      <!--<MidC />--Mid 90s -->
 
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
-      <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
-      <!--<Spider />--Spider-Man Into The Spider-Verse -->
+      <!--<SisterC />--The sisters Brother -->
+
 
       <!--<StyxC />--Styx -->
 
@@ -284,6 +291,8 @@ import PokemonC from '@/components/Films/Pokemon/PokemonC'
 import ShotC from '@/components/Films/Shot/ShotC'
 import TolkienC from '@/components/Films/Tolkien/TolkienC'
 import WomanWarC from '@/components/Films/WomanWar/WomanWarC'
+import CorruptedC from '@/components/Films/Corrupted/CorruptedC'
+import StudentC from '@/components/Films/Student/StudentC'
 
 
 
@@ -336,6 +345,7 @@ export default {
     Cold,
     Colette,
     ConcreteC,
+    CorruptedC,
     Creed,
     Crow,
     Destroyer,
@@ -415,6 +425,7 @@ export default {
     ShotC,
     SisterC,
     Spider,
+    StudentC,
     StyxC,
     SuperC,
     Total,

@@ -42,7 +42,7 @@ House cat Marnie lives a comfy life in the Sunshine household. She has never bee
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
+  <!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
 

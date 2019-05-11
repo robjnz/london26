@@ -1,12 +1,12 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "A star is Born 15">
+<b-card bg-variant="dark" text-variant="white" title= "A Star is Born 15">
 <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/nSbzyEJ8X9E"
           allowfullscreen
   ></b-embed>
   <p class="title-color">
-        Musician Jackson Maine discovers and falls in love with struggling artist Ally. 
+        Musician Jackson Maine discovers and falls in love with struggling artist Ally.
     </p>
 
   <h4 class="title-color"></h4>

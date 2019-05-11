@@ -3,11 +3,18 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 10th May 2019</h2>
+    <h2>Saturday 11th May 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
+    <BlackiaC /><!--Blackia-->
+    <GallanC /><!--Dil Diyan Gallan -->
     <KalankC /><!--Kalank-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <KavaludaariC /><!--Kavaludaari -->
     <Blank />
     <Blank />
     </b-card-group>
@@ -196,6 +203,9 @@ import Kesari from '@/components/Films/Kesari'
 import KalankC from '@/components/Films/Kalank/KalankC'
 import KanchanaC from '@/components/Films/Kanchana/KanchanaC'
 import NadhooC from '@/components/Films/Nadhoo/NadhooC'
+import BlackiaC from '@/components/Films/Blackia/BlackiaC'
+import KavaludaariC from '@/components/Films/Kavaludaari/KavaludaariC'
+import GallanC from '@/components/Films/Gallan/GallanC'
 
 
 
@@ -232,6 +242,7 @@ export default {
     Ben,
     Black,
     Blank,
+    BlackiaC,
     BlueC,
     Bohemian,
     Border,
@@ -263,6 +274,7 @@ export default {
     Five,
     FiveC,
     Forgive,
+    GallanC,
     Glass,
     GlassC,
     Green,
@@ -276,6 +288,7 @@ export default {
     Kala,
     KalankC,
     KanchanaC,
+    KavaludaariC,
     KeeperC,
     Kesari,
     KingC,

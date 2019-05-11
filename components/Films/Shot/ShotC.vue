@@ -2,7 +2,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "Long Shot 15 ">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/7nN6KVAgwK4"
+          src    = "https://www.youtube.com/embed/Cm9ae2ql63o"
           allowfullscreen
   ></b-embed>
     <p class="title-color">

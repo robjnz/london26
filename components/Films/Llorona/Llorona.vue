@@ -1,8 +1,8 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "The curse of la Llorona 15 ">
+<b-card bg-variant="dark" text-variant="white" title= "The Curse of la Llorona 15 ">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/14oPwBal7l4"
+          src    = "https://www.youtube.com/embed/a9WqoHeeADo"
           allowfullscreen
   ></b-embed>
     <p class="title-color">

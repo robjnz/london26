@@ -4,18 +4,18 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Friday<br>10th May 2019</font></h1>
+    <h1> <font color="gold"><br>Sunday<br>12th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
-<!--
+
 <h3 class="title-color">
 
-  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544943996/leyton_orient_wltsdq.jpg" alt="leyton orient womans team F.C."/>
-Leyton Orient F.C. <br>Womans Team<br>V<br>Crawley Wasps<br>
+  Home Game<br><b-img src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1544009671/charlton_fc_madgqn.png" alt="Charlton Athletic F.C.‎"/>
+Charlton Athletic F.C.‎ <br>Womans Team<br>V<br>Leicester City<br>
 <br>
 <b-button href="https://kutt.it/orient-women" target="_blank" variant="info">open</b-button>
 </h3>
--->
+
 <h3 class ="tory">
 <br>Tolkien<br>
 
@@ -33,6 +33,25 @@ Statford
 </h3>
 
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
+<br>
+<br>
+<h3 class ="tory">
+<br>Dil Diyan Gallan<br>
+
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/SPIpwadGfo4"
+          allowfullscreen
+  ></b-embed>
+    Showing today @
+  <br>Cineworld
+
+<br>
+Ilford
+
+</h3>
+
+<b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
 <!--

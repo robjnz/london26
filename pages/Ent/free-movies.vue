@@ -7,8 +7,8 @@
   <Alert />
   <b-card-group deck
   class="mb-3 ">
-  <Star /><!--A star is Born-->
   <Dog /><!--A Dog's Way Home-->
+  <Star /><!--A star is Born-->
   <Alita /><!--Alita Battle Angel -->
   </b-card-group>
 
@@ -58,70 +58,77 @@
   class="mb-3 ">
   <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
-  <Beale /><!--If Beale Street Could talk-->
-  </b-card-group>
+  <Life /><!--High Life -->
+</b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
   <Shot /><!--Long shot-->
-  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Mid /><!--Mid 90s -->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
-  <Missing /><!--Missing Link-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Missing /><!--Missing Link-->
   <Sex /><!--On the basis of sex -->
   <Blue /><!--Out Of Blue -->
-  <Pet /><!--Pet Sematary-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Pet /><!--Pet Sematary-->
   <Pokemon /><!-- Pokemon Detective Pikachu-->
   <Joan /><!--Red Joan-->
-  <Second /><!--Second Act-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Second /><!--Second Act-->
   <Shazam /><!--Shazam-->
   <Stan/><!--Stan & Ollie -->
-  <Styx /><!--Styx -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Styx /><!--Styx -->
   <Llorona /><!--The curse of la Llorona-->
   <Favourite /><!--The Favourite -->
-  <Grinch /><!--The Grinch-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Grinch /><!--The Grinch-->
   <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
-  <Teacher /><!--The Kinder Teacher -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Teacher /><!--The Kinder Teacher -->
   <Sister /><!--The sisters Brother -->
   <Upside /><!--The Upside -->
-  <Vanishing /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Vanishing /><!--The Vanishing-->
   <Tolkien /><!--Tolkien -->
   <Had /><!--What They Had -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Wonder /><!--Wonder park -->
+  <Blank />
+  <Blank />
   </b-card-group>
 
 
@@ -261,6 +268,7 @@ import Llorona from '@/components/Films/Llorona/Llorona'
 import Pokemon from '@/components/Films/Pokemon/Pokemon'
 import Shot from '@/components/Films/Shot/Shot'
 import Tolkien from '@/components/Films/Tolkien/Tolkien'
+import Life from '@/components/Films/Life/Life'
 
 
 
@@ -335,6 +343,7 @@ export default {
     Kodathi,
     Kumbalangi,
     Lego,
+    Life,
     Llorona,
     Lucifer,
     Lords,
