@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "In the Woods">
+<b-card bg-variant="dark" text-variant="white" title= "The Flying Bath">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sat 4 - Sun 12 May 2019
+    Sat 18 May 2019 @ 11 am
 
 
     </p>
@@ -20,19 +20,19 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Sign of Four">
+<b-card bg-variant="dark" text-variant="white" title= "Salomé">
   <p class="title-color">
     Greenwich Theatre<br>
-    Tues 7 - Sat 11 May 2019
+    Wed 15 - Sat 25 May 2019
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Alter Ego 2019 Final">
+<b-card bg-variant="dark" text-variant="white" title= "A Thousand Splendid Suns">
   <p class="title-color">
     Hackney Empire<br>
-    Fri 10 May @ 7.30pm
+    Wed 22 - Sat 25 May 2019
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -87,7 +87,7 @@
   <b-card bg-variant="dark" text-variant="white" title= "King Hedley II">
   <p class="title-color">
       <p class="title-color">
-    <b-embed type="iframe"
+    <b-embed type = "iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/rdIhxQSm6Rg"
           allowfullscreen
@@ -101,21 +101,26 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Take That Greatest Hits Live">
+<b-card bg-variant="dark" text-variant="white" title= "Tame Impala">
   <p class="title-color">
     The O2 arena<br>
-    Thurs 2 May - Fri 10 May 2019
+    Sat 8 June 2019 @ 6.30 pm
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Crucible">
+<b-card bg-variant="dark" text-variant="white" title= "Armadillo">
   <p class="title-color">
+<b-embed type = "iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/RPfTLX-mxGQ"
+          allowfullscreen
+  ></b-embed>
 
     The Yard Hackney<br>
-    Wed 27 March — Thurs 11 May 2019
+    Thurs 30 May — Sat 22 June
 
     </p>
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
