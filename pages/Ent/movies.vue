@@ -16,7 +16,7 @@
     <b-card-group deck
     class="mb-3 ">
     <DumboC /><!--Dumbo -->
-    <eighthC /><!--Eighth Grade -->
+    <EighthC /><!--Eighth Grade -->
     <Fisherman /><!--Fisherman’s Friend -->
     </b-card-group>
 
@@ -72,7 +72,7 @@
   <b-card-group deck
   class="mb-3 ">
     <Rose /><!----Wild Rose -->
-    <womanWarC /><!--Woman at war -->
+    <WomanWarC /><!--Woman at war -->
     <WonderC /><!--Wonder park -->
     </b-card-group>
 
@@ -279,7 +279,7 @@ import Kesari from '@/components/Films/Kesari'
 import GretaC from '@/components/Films/Greta/GretaC'
 import JoanC from '@/components/Films/Joan/JoanC'
 import AvengersC from '@/components/Films/Avengers/AvengersC'
-import eighthC from '@/components/Films/eighth/eighthC'
+import EighthC from '@/components/Films/Eighth/EighthC'
 import CantoC from '@/components/Films/Canto/CantoC'
 import CatC from '@/components/Films/Cat/CatC'
 import ConcreteC from '@/components/Films/Concrete/ConcreteC'
@@ -353,7 +353,7 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
-    eighthC,
+    EighthC,
     Escape,
     EscapeC,
     Everybody,

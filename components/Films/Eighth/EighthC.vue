@@ -49,8 +49,8 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <eighthR />
-    <eighthF />
+    <EighthR />
+    <EighthF />
     <Eighteen />
   </b-button-group>
 
@@ -70,8 +70,8 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import eighthR from '@/components/Films/eighth/eighthR'
-import eighthF from '@/components/Films/eighth/eighthF'
+import EighthR from '@/components/Films/Eighth/EighthR'
+import EighthF from '@/components/Films/Eighth/EighthF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -91,8 +91,8 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    eighthR,
-    eighthF,
+    EighthR,
+    EighthF,
     Eighteen,
 
       }

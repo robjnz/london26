@@ -33,7 +33,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import ShotR from '@/components/Films/Shot/ShotR'
-import ShotF from '@/components/Films/Shot/shotF'
+import ShotF from '@/components/Films/Shot/ShotF'
 import Nineteen from '@/components/Films/Year/Nineteen'
 
 

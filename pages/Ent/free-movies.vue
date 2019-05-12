@@ -43,7 +43,7 @@
   <b-card-group deck
   class="mb-3 ">
     <Dumbo /><!--Dumbo -->
-    <eighth /><!--Eighth Grade -->
+    <Eighth /><!--Eighth Grade -->
     <Escape /><!--Escape Room -->
     </b-card-group>
 
@@ -259,7 +259,7 @@ import Teacher from '@/components/Films/Teacher/Teacher'
 import Sex from '@/components/Films/Sex/Sex'
 import Favourite from '@/components/Films/Favourite/Favourite'
 import Avengers from '@/components/Films/Avengers/Avengers'
-import eighth from '@/components/Films/eighth/eighth'
+import Eighth from '@/components/Films/Eighth/Eighth'
 import Joan from '@/components/Films/Joan/Joan'
 import Missing from '@/components/Films/Missing/Missing'
 import Concrete from '@/components/Films/Concrete/Concrete'
@@ -316,7 +316,7 @@ export default {
     Dragonball,
     Dragonworld,
     Dumbo,
-    eighth,
+    Eighth,
     Erased,
     Escape,
     Everybody,

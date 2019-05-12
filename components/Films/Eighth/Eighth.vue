@@ -11,8 +11,8 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <eighthR />
-    <eighthF />
+    <EighthR />
+    <EighthF />
     <Eighteen />
   </b-button-group>
 
@@ -20,8 +20,8 @@
 </template>
 
 <script>
-import eighthR from '@/components/Films/eighth/eighthR'
-import eighthF from '@/components/Films/eighth/eighthF'
+import EighthR from '@/components/Films/Eighth/EighthR'
+import EighthF from '@/components/Films/Eighth/EighthF'
 import Eighteen from '@/components/Films/Year/Eighteen'
 
 
@@ -29,8 +29,8 @@ import Eighteen from '@/components/Films/Year/Eighteen'
 
 export default {
   components: {
-    eighthR,
-    eighthF,
+    EighthR,
+    EighthF,
     Eighteen,
 
       }
