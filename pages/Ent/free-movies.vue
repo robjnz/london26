@@ -36,98 +36,105 @@
   <b-card-group deck
   class="mb-3 ">
   <Cold /><!--cold Pursuit -->
+  <Wedding /><!--Destination Wedding -->
   <Concrete /><!--Dragged Across Concrete -->
-  <Dragonball /><!--Dragon Ball Super -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Dragonball /><!--Dragon Ball Super -->
     <Dumbo /><!--Dumbo -->
     <Eighth /><!--Eighth Grade -->
-    <Escape /><!--Escape Room -->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+    <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
   <Five /><!--Five Feet Apart-->
-  <Glass /><!--Glass-->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
-  <Life /><!--High Life -->
-</b-card-group>
+  </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Life /><!--High Life -->
   <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
+  </b-card-group>
+
+    <b-card-group deck
+    class="mb-3 ">
+  <Kalank /><!--Kalank-->
+  <Kavaludaari /><!--Kavaludaari -->
   <Shot /><!--Long shot-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Mid /><!--Mid 90s -->
+  <Maharshi /><!--Maharshi-->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Mid /><!--Mid 90s -->
   <Missing /><!--Missing Link-->
   <Sex /><!--On the basis of sex -->
-  <Blue /><!--Out Of Blue -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
   <Pokemon /><!-- Pokemon Detective Pikachu-->
-  <Joan /><!--Red Joan-->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Joan /><!--Red Joan-->
   <Second /><!--Second Act-->
   <Shazam /><!--Shazam-->
-  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Stan/><!--Stan & Ollie -->
   <Styx /><!--Styx -->
   <Llorona /><!--The curse of la Llorona-->
-  <Favourite /><!--The Favourite -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <Grinch /><!--The Grinch-->
   <Hole /><!--The Hole In The Ground-->
-  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
   <Teacher /><!--The Kinder Teacher -->
   <Sister /><!--The sisters Brother -->
-  <Upside /><!--The Upside -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
   <Tolkien /><!--Tolkien -->
-  <Had /><!--What They Had -->
   </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+  <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
   <Blank />
   </b-card-group>
 
@@ -269,6 +276,10 @@ import Pokemon from '@/components/Films/Pokemon/Pokemon'
 import Shot from '@/components/Films/Shot/Shot'
 import Tolkien from '@/components/Films/Tolkien/Tolkien'
 import Life from '@/components/Films/Life/Life'
+import Kavaludaari from '@/components/Films/Kavaludaari/Kavaludaari'
+import Maharshi from '@/components/Films/Maharshi/Maharshi'
+import Wedding from '@/components/Films/Wedding/Wedding'
+import Kalank from '@/components/Films/Kalank/Kalank'
 
 
 
@@ -338,6 +349,8 @@ export default {
     Hole,
     Joan,
     Kala,
+    Kalank,
+    Kavaludaari,
     King,
     Kobiety,
     Kodathi,
@@ -349,6 +362,7 @@ export default {
     Lords,
     Luka,
     Maiden,
+    Maharshi,
     Marvel,
     MarvelC,
     Mid,
@@ -388,6 +402,7 @@ export default {
     War,
     Junglee,
     Lion,
+    Wedding,
     Wonder,
       }
 }

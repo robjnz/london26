@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Monday<br>13th May 2019</font></h1>
+    <h1> <font color="gold"><br>Tuesday<br>14th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -35,7 +35,7 @@ Statford
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<h3 class ="tory">
+<h3 class ="asian">
 <br>Dil Diyan Gallan<br>
 
 <b-embed type="iframe"
@@ -54,21 +54,21 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
-<!--
-<h3 class="labour">In the Woods<br>
+
+<h3 class="labour">The Hired Man<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/Kq31sHs9cUo"
+          src    = "https://www.youtube.com/embed/1AH9iWmbKk0"
           allowfullscreen
   ></b-embed>
     Showing today @
-  <br> Broadway Theatre Barking
-  <br>@<br>5pm
+  <br> Queen's Theatre Hornchurch
+  <br>@<br>7.30pm
 </h3>
-<b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 <br><br>
--->
+
     </b-badge>
 
     </div>
@@ -83,7 +83,7 @@ Ilford
   -webkit-background-size: cover;
   -moz-background-size   : cover;
   -o-background-size     : cover;
-  height                 : 1500px;
+  height                 : 2000px;
   margin-top             : -75px;
 
 }

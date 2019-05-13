@@ -1,13 +1,13 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Woman at War 15">
+<b-card bg-variant="dark" text-variant="white" title= "Maharshi 12A">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/YDeyLwugWIo"
+          src    = "https://www.youtube.com/embed/eQraxc7QbU8"
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-    Halla is a 50-year-old environmental activist who crusades against the local aluminum industry in Iceland. As her actions grow bolder, her life changes in the blink of an eye when she's finally granted permission to adopt a girl from the Ukraine.
-    </p>
+        Rishi, a millionaire businessman, returns to his homeland, where he becomes the champion of poor and downtrodden farmers.
+        </p>
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
@@ -16,7 +16,7 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+<Ilfordbutton />
 <!--<Westbutton />-->
   </b-button-group>
 
@@ -28,8 +28,8 @@
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
+  <!--<Pgreenwichbutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>
@@ -43,14 +43,15 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <!--<Romfordbutton />-->
+  <Romfordbutton />
   <!--<Vstratford />-->
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <WomanWarR />
-    <Eighteen />
+    <MaharshiR />
+    <MaharshiF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -69,9 +70,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import WomanWarR from '@/components/Films/WomanWar/WomanWarR'
-import WomanWarF from '@/components/Films/WomanWar/WomanWarF'
-import Eighteen from '@/components/Films/Year/Eighteen'
+import MaharshiR from '@/components/Films/Maharshi/MaharshiR'
+import MaharshiF from '@/components/Films/Maharshi/MaharshiF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -90,9 +91,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    WomanWarR,
-    WomanWarF,
-    Eighteen,
+    MaharshiR,
+    MaharshiF,
+    Nineteen,
 
       }
 }

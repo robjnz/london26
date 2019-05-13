@@ -4,55 +4,55 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 11th May 2019</h2>
+    <h2>Tuesday 14th May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
+    <GraceC /><!--Amazing Grace-->
     <AvengersC /><!--Avengers Endgame -->
-    <MarvelC /><!-- Captain Marvel -->
     </b-card-group>
 
     <b-card-group deck
     class="mb-3 ">
+    <MarvelC /><!-- Captain Marvel -->
+    <WeddingC /><!--Destination Wedding -->
     <DumboC /><!--Dumbo -->
+    </b-card-group>
+
+    <b-card-group deck
+    class="mb-3 ">
     <EighthC /><!--Eighth Grade -->
     <Fisherman /><!--Fisherman’s Friend -->
+    <GretaC /><!--Greta -->
     </b-card-group>
 
     <b-card-group deck
     class="mb-3 ">
     <HellboyC /><!--Heliboy-->
     <LifeC /><!--High Life -->
-    <DragonworldC /><!--How to Train Your Dragon the Hidden -->
+    <LittleC /><!--Little -->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <LittleC /><!--Little -->
+    <b-card-group deck
+    class="mb-3 ">
     <ShotC /><!--Long shot-->
+    <PoppinsC /><!--Mary Poppins-->
     <MidC /><!--Mid 90s -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <MissingC /><!--Missing Link-->
     <Peppa /><!--Peppa Pig Festival of Fun-->
     <PetC /><!--Pet Sematary-->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <PokemonC /><!-- Pokemon Detective Pikachu-->
-    <Ralph /><!--Ralph Breaks The Internet: Wreck-It -->
-    <JoanC /><!--Red Joan-->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
+    <JoanC /><!--Red Joan-->
     <ShazamC /><!--Shazam-->
-    <Spider /><!--Spider-Man Into The Spider-Verse -->
-    <CatC /><!--Spy Cat -->
+    <SisterC /><!--The sisters Brother -->
     </b-card-group>
 
   <b-card-group deck
@@ -72,7 +72,7 @@
   <b-card-group deck
   class="mb-3 ">
     <Rose /><!----Wild Rose -->
-    <WomanWarC /><!--Woman at war -->
+    <WomanC /><!--Woman at war -->
     <WonderC /><!--Wonder park -->
     </b-card-group>
 
@@ -104,6 +104,7 @@
       <!--<Caper />--Capernaum -->
 
       <!--<Dragon --Dragon Ball Super -->
+      <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
 
       <!--<EscapeC --Escape Room -->
       <!--<Lion /--Eaten by Lion -->
@@ -115,7 +116,6 @@
 
       <!--<GlassC --Glass-->
       <!--<GreenC /--Green Book-->
-      <!--<GretaC /--Greta -->
 
 
       <!--<Guddiyan />--Guddiyan Patole -->
@@ -139,18 +139,20 @@
   <!--<FavouriteC />--The Favourite -->
 
       <!--Maiden --Maiden-->
-      <!--<PoppinsC /--Mary Poppins-->
 
       <!--<Milan -Milan Talkies-->
+      <!--<MissingC />--Missing Link-->
 
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
+      <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
-      <!--<SisterC />--The sisters Brother -->
+      <!--<CatC />--Spy Cat -->
 
+      <!--<Spider />--Spider-Man Into The Spider-Verse -->
 
       <!--<StyxC />--Styx -->
 
@@ -290,15 +292,12 @@ import LloronaC from '@/components/Films/Llorona/LloronaC'
 import PokemonC from '@/components/Films/Pokemon/PokemonC'
 import ShotC from '@/components/Films/Shot/ShotC'
 import TolkienC from '@/components/Films/Tolkien/TolkienC'
-import WomanWarC from '@/components/Films/WomanWar/WomanWarC'
+import WomanC from '@/components/Films/Woman/WomanC'
 import CorruptedC from '@/components/Films/Corrupted/CorruptedC'
 import StudentC from '@/components/Films/Student/StudentC'
-
-
-
-
-
-
+import GraceC from '@/components/Films/Grace/GraceC'
+import Kalank from '@/components/Films/Kalank/Kalank'
+import WeddingC from '@/components/Films/Wedding/WeddingC'
 
 
 
@@ -370,6 +369,7 @@ export default {
     Forgive,
     Glass,
     GlassC,
+    GraceC,
     Green,
     GreenC,
     GretaC,
@@ -439,7 +439,8 @@ export default {
     Junglee,
     Lion,
     UsC,
-    WomanWarC,
+    WeddingC,
+    WomanC,
     WonderC,
       }
 }

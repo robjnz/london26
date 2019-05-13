@@ -54,6 +54,9 @@ color: #1A8c97;
 .tory{
   color: #1e90ff;
 }
+.asian{
+  color: #00ff7f;
+}
 
 .today{
   color: #FFF5EE;

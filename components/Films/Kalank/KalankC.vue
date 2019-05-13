@@ -43,13 +43,14 @@
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <!--<Romfordbutton />-->
+  <Romfordbutton />
   <Vstratford />
   </b-button-group>
 
   <h4 class="title-color"></h4>
   <b-button-group>
     <KalankR />
+    <KalankF />
     <Nineteen />
   </b-button-group>
 

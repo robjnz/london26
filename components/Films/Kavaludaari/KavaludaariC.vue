@@ -16,7 +16,7 @@
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
+<!--<Ilfordbutton />-->
 <!--<Westbutton />-->
   </b-button-group>
 
@@ -50,6 +50,7 @@
   <h4 class="title-color"></h4>
   <b-button-group>
     <KavaludaariR />
+    <KavaludaariF />
     <Nineteen />
   </b-button-group>
 
@@ -70,6 +71,7 @@ import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
 import KavaludaariR from '@/components/Films/Kavaludaari/KavaludaariR'
+import KavaludaariF from '@/components/Films/Kavaludaari/KavaludaariF'
 import Nineteen from '@/components/Films/Year/Nineteen'
 
 
@@ -90,6 +92,7 @@ export default {
     Romfordbutton,
     Vstratford,
     KavaludaariR,
+    KavaludaariF,
     Nineteen,
 
       }

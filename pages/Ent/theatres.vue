@@ -46,7 +46,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "Block Universe">
   <p class="title-color">
     Hoxton Hall<br>
-    Thurs 30 May - Fri 31 May @ 7.30pm
+    Thurs 30 - Fri 31 May @ 7.30pm
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
@@ -120,7 +120,7 @@
   ></b-embed>
 
     The Yard Hackney<br>
-    Thurs 30 May — Sat 22 June
+    Thurs 30 May — Sat 22 June 2019
 
     </p>
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>

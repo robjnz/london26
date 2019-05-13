@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 11th May 2019</h2>
+    <h2>Tuesday 14th May 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
@@ -14,8 +14,8 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <KavaludaariC /><!--Kavaludaari -->
-    <Blank />
+    <MaharshiC /><!--Maharshi-->
+    <PremakadhaC /><!--Oru Yamandan Premakadha-->
     <Blank />
     </b-card-group>
 
@@ -55,6 +55,7 @@
       <!--<Hannah --Hannah-->
       <!--<Kesari /--Kesari -->
       <!--<KanchanaC />--Kanchana 3 -->
+      <!--<KavaludaariC />--Kavaludaari -->
 
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
@@ -206,11 +207,8 @@ import NadhooC from '@/components/Films/Nadhoo/NadhooC'
 import BlackiaC from '@/components/Films/Blackia/BlackiaC'
 import KavaludaariC from '@/components/Films/Kavaludaari/KavaludaariC'
 import GallanC from '@/components/Films/Gallan/GallanC'
-
-
-
-
-
+import MaharshiC from '@/components/Films/Maharshi/MaharshiC'
+import PremakadhaC from '@/components/Films/Premakadha/PremakadhaC'
 
 
 
@@ -223,7 +221,7 @@ import GallanC from '@/components/Films/Gallan/GallanC'
 export default {
   head () {
     return {
-      titleTemplate: '%s Movies Today',
+      titleTemplate: '%s Asian Movies Today',
       meta         : [
         { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, April 2019 and free to watch online movies' }
       ]
@@ -302,6 +300,7 @@ export default {
     Luka,
     Maiden,
     ManjeC,
+    MaharshiC,
     Marvel,
     MarvelC,
     MidC,
@@ -315,6 +314,7 @@ export default {
     Peppa,
     PetC,
     PoppinsC,
+    PremakadhaC,
     Preview,
     Prodigy,
     Rabb,

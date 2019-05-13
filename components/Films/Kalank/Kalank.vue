@@ -1,19 +1,19 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Woman at War 15">
+<b-card bg-variant="dark" text-variant="white" title= "Kalank 12A">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/YDeyLwugWIo"
+          src    = "https://www.youtube.com/embed/UmhXhTmP0a0"
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-    Halla is a 50-year-old environmental activist who crusades against the local aluminum industry in Iceland. As her actions grow bolder, her life changes in the blink of an eye when she's finally granted permission to adopt a girl from the Ukraine.
+      Long buried secrets come to light, when romance blossoms between a young daredevil and a beautiful woman in 1945 India.
     </p>
-
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <WomanWarR />
-    <Eighteen />
+    <KalankR />
+    <KalankF />
+    <Nineteen />
   </b-button-group>
 
 </b-card>
@@ -32,9 +32,9 @@ import Pstratfordbutton from '@/components/Picturehouses/Pstratfordbutton'
 import Newhambutton from '@/components/Showcase/Newhambutton'
 import Romfordbutton from '@/components/Cinevue/Romfordbutton'
 import Vstratford from '@/components/Cinevue/Vstratford'
-import WomanWarR from '@/components/Films/WomanWar/WomanWarR'
-import WomanWarF from '@/components/Films/WomanWar/WomanWarF'
-import Eighteen from '@/components/Films/Year/Eighteen'
+import KalankR from '@/components/Films/Kalank/KalankR'
+import KalankF from '@/components/Films/Kalank/KalankF'
+import Nineteen from '@/components/Films/Year/Nineteen'
 
 
 
@@ -53,9 +53,9 @@ export default {
     Newhambutton,
     Romfordbutton,
     Vstratford,
-    WomanWarR,
-    WomanWarF,
-    Eighteen,
+    KalankR,
+    KalankF,
+    Nineteen,
 
       }
 }
