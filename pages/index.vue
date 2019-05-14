@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Tuesday<br>14th May 2019</font></h1>
+    <h1> <font color="gold"><br>Wednesday<br>15th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -69,6 +69,9 @@ Ilford
 <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 <br><br>
 
+<a href="https://twitter.com/londoneast3?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @londoneast3</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><br>
+<br><br>
     </b-badge>
 
     </div>

@@ -2,12 +2,12 @@
 <section main>
   <b-container>
     <h1 class="title-color">This months events in East London</h1>
-    <h2>April 2019</h2>
+    <h2>May 2019</h2>
     <br>
     <b-card-group deck
 class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "">
-<a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<a class="twitter-timeline" data-width="320" data-height="600" data-theme="dark" href="https://twitter.com/londoneast3?ref_src=twsrc%5Etfw">Tweets by londoneast3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </b-card>
 
 
