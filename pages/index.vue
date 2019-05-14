@@ -69,7 +69,7 @@ Ilford
 <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 <br><br>
 
-<a href="https://twitter.com/londoneast3?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @londoneast3</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a href="https://kutt.it/londoneast3" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_90,w_90/v1557874167/twitter_i92pn9.png" alt="twitter @londoneast3" /></a>
 <br><br>
 <br><br>
     </b-badge>
