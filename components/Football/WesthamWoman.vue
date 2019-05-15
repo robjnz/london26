@@ -4,7 +4,7 @@
 <h5>Woman Team</h5>
 <p class="title-color">
 
-<br>Sun 12 May 2019 @ 3pm <br>V<br>Brighton & Hove Albion
+<br>
 
 </p>
 </b-card>
