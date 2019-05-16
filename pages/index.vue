@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Wednesday<br>15th May 2019</font></h1>
+    <h1> <font color="gold"><br>Thursday<br>16th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -64,7 +64,7 @@ Ilford
   ></b-embed>
     Showing today @
   <br> Queen's Theatre Hornchurch
-  <br>@<br>7.30pm
+  <br>@<br>2.30pm & 8pm
 </h3>
 <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 <br><br>
