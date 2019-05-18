@@ -7,11 +7,15 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Flying Bath">
+<b-card bg-variant="dark" text-variant="white" title= "Sherlock Holmes The Sign of Four">
   <p class="title-color">
-
+  <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/7eiwlCWhRFQ"
+          allowfullscreen
+  ></b-embed>
     Broadway Theatre Barking<br>
-    Sat 18 May 2019 @ 11 am
+    Thurs 6 - Fri 7 June 2019
 
 
     </p>
@@ -52,28 +56,28 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Little Shop of Horrors">
+<b-card bg-variant="dark" text-variant="white" title= "Playhouse Creatures">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 16 - Sat 18 May 2019
+    Thu 23 - Sat 25 May 2019
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Hired Man">
+<b-card bg-variant="dark" text-variant="white" title= "The Willows">
 
 
   <p class="title-color">
     <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/UwPj9I7Jytg"
+          src    = "https://www.youtube.com/embed/EhZcPPTmcAA"
           allowfullscreen
   ></b-embed>
     Queen's Theatre Hornchurch<br>
-    Sat 27 Apr - Sat 18 May 2019
+    Wed 22 - Sun 26 May 2019
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
