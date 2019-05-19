@@ -11,11 +11,10 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-
-  </b-button-group>
- <ErasedR />
- <ErasedF />
- <Eighteen />
+  <ErasedR />
+  <ErasedF />
+  <Eighteen />
+ </b-button-group>
 </b-card>
 </template>
 
