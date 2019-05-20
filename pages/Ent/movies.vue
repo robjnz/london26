@@ -4,76 +4,76 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Tuesday 14th May 2019</h2>
+    <h2>Tuesday 21st May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
+    <True /><!--All Is True 12A"-->
     <GraceC /><!--Amazing Grace-->
-    <AvengersC /><!--Avengers Endgame -->
     </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+    <AvengersC /><!--Avengers Endgame -->
+    <BreakthroughC /> <!--Breakthrough -->
     <MarvelC /><!-- Captain Marvel -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <WeddingC /><!--Destination Wedding -->
     <DumboC /><!--Dumbo -->
-    </b-card-group>
-
-    <b-card-group deck
-    class="mb-3 ">
     <EighthC /><!--Eighth Grade -->
-    <Fisherman /><!--Fisherman’s Friend -->
-    <GretaC /><!--Greta -->
     </b-card-group>
 
     <b-card-group deck
     class="mb-3 ">
+    <JohnwickC /><!--Johnwick Parbellum -->
     <HellboyC /><!--Heliboy-->
     <LifeC /><!--High Life -->
-    <LittleC /><!--Little -->
-    </b-card-group>
-
-    <b-card-group deck
-    class="mb-3 ">
-    <ShotC /><!--Long shot-->
-    <PoppinsC /><!--Mary Poppins-->
-    <MidC /><!--Mid 90s -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <LittleC /><!--Little -->
+    <ShotC /><!--Long shot-->
+    <PawpupsC /><!--Paw Patrol Mighty Pups -->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <PoppinsC /><!--Mary Poppins-->
     <Peppa /><!--Peppa Pig Festival of Fun-->
     <PetC /><!--Pet Sematary-->
-    <PokemonC /><!-- Pokemon Detective Pikachu-->
     </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+    <PokemonC /><!-- Pokemon Detective Pikachu-->
     <JoanC /><!--Red Joan-->
     <ShazamC /><!--Shazam-->
-    <SisterC /><!--The sisters Brother -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <StudentC /><!--Student of the year 2 -->
     <CorruptedC/><!--The Corrupted-->
     <LloronaC /><!--The curse of la Llorona-->
+    <HustleC /><!--The Hustle-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <HustleC /><!--The Hustle-->
     <TolkienC /><!--Tolkien-->
     <UsC /><!--Us-->
+    <Rose /><!----Wild Rose -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Rose /><!----Wild Rose -->
     <WomanC /><!--Woman at war -->
     <WonderC /><!--Wonder park -->
+    <Blank />
     </b-card-group>
 
 
@@ -87,7 +87,6 @@
       <!-- <BlueC />--Out Of Blue -->
 
 
-      <!--True --All Is True 12A"-->
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--<Band /--Band Vaaje-->
@@ -113,6 +112,8 @@
       <!--<FamilyC /--Instant Family  -->
 
       <!--<FightingC /--Fighting With My Family -->
+      <!--<Fisherman />--Fisherman’s Friend -->
+      <!--<GretaC /--Greta -->
 
       <!--<GlassC --Glass-->
       <!--<GreenC /--Green Book-->
@@ -139,6 +140,7 @@
   <!--<FavouriteC />--The Favourite -->
 
       <!--Maiden --Maiden-->
+      <!--<MidC />--Mid 90s -->
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
@@ -151,6 +153,7 @@
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
       <!--<CatC />--Spy Cat -->
+      <!--<SisterC />--The sisters Brother -->
 
       <!--<Spider />--Spider-Man Into The Spider-Verse -->
 
@@ -294,10 +297,12 @@ import ShotC from '@/components/Films/Shot/ShotC'
 import TolkienC from '@/components/Films/Tolkien/TolkienC'
 import WomanC from '@/components/Films/Woman/WomanC'
 import CorruptedC from '@/components/Films/Corrupted/CorruptedC'
-import StudentC from '@/components/Films/Student/StudentC'
 import GraceC from '@/components/Films/Grace/GraceC'
 import Kalank from '@/components/Films/Kalank/Kalank'
 import WeddingC from '@/components/Films/Wedding/WeddingC'
+import BreakthroughC from '@/components/Films/Breakthrough/BreakthroughC'
+import JohnwickC from '@/components/Films/Johnwick/JohnwickC'
+import PawpupsC from '@/components/Films/Pawpups/PawpupsC'
 
 
 
@@ -336,6 +341,7 @@ export default {
     Border,
     Boy,
     BoyC,
+    BreakthroughC,
     Bumblebee,
     Burning,
     CantoC,
@@ -376,6 +382,7 @@ export default {
     Guddiyan,
     Gully,
     JoanC,
+    JohnwickC,
     Hannah,
     Happy,
     HappyC,
@@ -406,6 +413,7 @@ export default {
     Ml,
     Mule,
     Notebook,
+    PawpupsC,
     Peppa,
     PetC,
     PokemonC,
@@ -425,7 +433,6 @@ export default {
     ShotC,
     SisterC,
     Spider,
-    StudentC,
     StyxC,
     SuperC,
     Total,

@@ -16,7 +16,7 @@ Anne Hathaway and Rebel Wilson star as female scam artists, one low rent and the
 <br><br>
 <b-button-group>
 <Ilfordbutton />
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>

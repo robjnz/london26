@@ -11,7 +11,7 @@ Monte and his baby daughter are the last survivors of a damned and dangerous mis
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->
-<Greenwichbutton />
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>

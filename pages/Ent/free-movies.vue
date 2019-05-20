@@ -28,113 +28,120 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <Breakthrough /><!--Breakthrough -->
   <Bumblebee /><!--Bumblebee -->
   <Forgive /><!--Can You Ever Forgive Me -->
-  <Marvel /><!-- Captain Marvel -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Marvel /><!-- Captain Marvel -->
   <Cold /><!--cold Pursuit -->
   <Wedding /><!--Destination Wedding -->
-  <Concrete /><!--Dragged Across Concrete -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+  <Concrete /><!--Dragged Across Concrete -->
   <Dragonball /><!--Dragon Ball Super -->
     <Dumbo /><!--Dumbo -->
-    <Eighth /><!--Eighth Grade -->
     </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+    <Eighth /><!--Eighth Grade -->
     <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
-  <Five /><!--Five Feet Apart-->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+  <Five /><!--Five Feet Apart-->
   <Glass /><!--Glass-->
   <Green /><!--Green Book-->
-  <Happy /><!--Happy Death Day -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+  <Happy /><!--Happy Death Day -->
   <Life /><!--High Life -->
   <Beale /><!--If Beale Street Could talk-->
-  <Family /><!--Instant Family  -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+  <Family /><!--Instant Family  -->
+  <Johnwick /><!--Johnwick Parbellum -->
   <Kalank /><!--Kalank-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Kavaludaari /><!--Kavaludaari -->
   <Shot /><!--Long shot-->
+  <Maharshi /><!--Maharshi-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Maharshi /><!--Maharshi-->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
+  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Mid /><!--Mid 90s -->
   <Missing /><!--Missing Link-->
   <Sex /><!--On the basis of sex -->
+  <Blue /><!--Out Of Blue -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Blue /><!--Out Of Blue -->
+  <b-card-group deck
+  class="mb-3 ">
   <Pet /><!--Pet Sematary-->
   <Pokemon /><!-- Pokemon Detective Pikachu-->
+  <Joan /><!--Red Joan-->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Joan /><!--Red Joan-->
+  <b-card-group deck
+  class="mb-3 ">
   <Second /><!--Second Act-->
   <Shazam /><!--Shazam-->
+  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Stan/><!--Stan & Ollie -->
+  <b-card-group deck
+  class="mb-3 ">
   <Styx /><!--Styx -->
   <Llorona /><!--The curse of la Llorona-->
+  <Favourite /><!--The Favourite -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Favourite /><!--The Favourite -->
+  <b-card-group deck
+  class="mb-3 ">
   <Grinch /><!--The Grinch-->
   <Hole /><!--The Hole In The Ground-->
+  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <King /><!--The Kid Who Would Be King-->
+  <b-card-group deck
+  class="mb-3 ">
   <Teacher /><!--The Kinder Teacher -->
   <Sister /><!--The sisters Brother -->
+  <Upside /><!--The Upside -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Upside /><!--The Upside -->
+  <b-card-group deck
+  class="mb-3 ">
   <Vanishing /><!--The Vanishing-->
   <Tolkien /><!--Tolkien -->
+  <Had /><!--What They Had -->
   </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
-  <Had /><!--What They Had -->
+  <b-card-group deck
+  class="mb-3 ">
   <Wonder /><!--Wonder park -->
+  <Blank />
   <Blank />
   </b-card-group>
 
@@ -280,6 +287,8 @@ import Kavaludaari from '@/components/Films/Kavaludaari/Kavaludaari'
 import Maharshi from '@/components/Films/Maharshi/Maharshi'
 import Wedding from '@/components/Films/Wedding/Wedding'
 import Kalank from '@/components/Films/Kalank/Kalank'
+import Breakthrough from '@/components/Films/Breakthrough/Breakthrough'
+import Johnwick from '@/components/Films/Johnwick/Johnwick'
 
 
 
@@ -291,7 +300,7 @@ export default {
     return {
       titleTemplate: '%s Free-Movies',
       meta         : [
-        { hid: 'description', name: 'description', content: 'movies free to watch online' }
+        { hid: 'description', name: 'description', content: 'movies made in 2018 & 2019 free to watch online' }
       ]
     }
   },
@@ -314,6 +323,7 @@ export default {
     Bohemian,
     Border,
     Boy,
+    Breakthrough,
     Bumblebee,
     Burning,
     Caper,
@@ -348,6 +358,7 @@ export default {
     Happy,
     Hole,
     Joan,
+    Johnwick,
     Kala,
     Kalank,
     Kavaludaari,

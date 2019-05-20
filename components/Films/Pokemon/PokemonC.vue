@@ -27,8 +27,8 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <!--<Pgreenwichbutton />-->
-  <!--<Phackneybutton />-->
+  <Pgreenwichbutton />
+  <Phackneybutton />
   </b-button-group>
 <br><br>
   <b-button-group>

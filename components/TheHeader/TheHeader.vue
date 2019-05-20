@@ -4,6 +4,7 @@
 
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
+
   <img src="/logo_transparent.png" height="50" width="50" class="d-inline-block align-top" alt="LondonEast logo">
 
 

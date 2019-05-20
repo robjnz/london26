@@ -23,7 +23,7 @@ Liam's drive for redemption sees him caught up in a web of conspiracy, crime, an
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
+ <!--<Ogreenwichbutton />-->
   <!--<Osouthbutton />-->
   </b-button-group>
 
@@ -34,12 +34,12 @@ Liam's drive for redemption sees him caught up in a web of conspiracy, crime, an
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>

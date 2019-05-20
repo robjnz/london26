@@ -3,35 +3,31 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Tuesday 14th May 2019</h2>
+    <h2>Tuesday 21st May 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
     <BlackiaC /><!--Blackia-->
-    <GallanC /><!--Dil Diyan Gallan -->
     <KalankC /><!--Kalank-->
+    <MaharshiC /><!--Maharshi-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <MaharshiC /><!--Maharshi-->
-    <PremakadhaC /><!--Oru Yamandan Premakadha-->
+    <StudentC /><!--Student of the year 2 -->
+    <Blank />
     <Blank />
     </b-card-group>
+    
+    <!--Asian movies-->
+    <!--<GallanC />--Dil Diyan Gallan -->
 
 
-      <!--<Ml --90ML -->
-      <!--<Star --A star is Born-->
-      <!-- <AlitaC --Alita Battle Angel -->
 
       <!--<Airaa Airaa -->
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
       <!--<Gully --Gully Boy -->
-
-      <!--True --All Is True 12A"-->
-      <!--<Bell --Bell bottom-->
-      <!--<Aquaman --Aquaman -->
       <!--<Band /--Band Vaaje-->
       <!--<BealeC --If Beale Street Could talk-->
 
@@ -70,6 +66,7 @@
       <!--Maiden --Maiden-->
       <!--<Milan -Milan Talkies-->
         <!--<NadhooC />--Nadhoo Khan -->
+        <!--<PremakadhaC />--Oru Yamandan Premakadha-->
 
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
@@ -209,6 +206,7 @@ import KavaludaariC from '@/components/Films/Kavaludaari/KavaludaariC'
 import GallanC from '@/components/Films/Gallan/GallanC'
 import MaharshiC from '@/components/Films/Maharshi/MaharshiC'
 import PremakadhaC from '@/components/Films/Premakadha/PremakadhaC'
+import StudentC from '@/components/Films/Student/StudentC'
 
 
 
@@ -329,6 +327,7 @@ export default {
     SherdilC,
     SisterC,
     Spider,
+    StudentC,
     SuperC,
     Total,
     True,
