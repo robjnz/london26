@@ -30,49 +30,42 @@
     <b-card-group deck
     class="mb-3 ">
     <JohnwickC /><!--Johnwick Parbellum -->
-    <HellboyC /><!--Heliboy-->
     <LifeC /><!--High Life -->
+    <LittleC /><!--Little -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <LittleC /><!--Little -->
     <ShotC /><!--Long shot-->
     <PawpupsC /><!--Paw Patrol Mighty Pups -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <PoppinsC /><!--Mary Poppins-->
     <Peppa /><!--Peppa Pig Festival of Fun-->
-    <PetC /><!--Pet Sematary-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <PetC /><!--Pet Sematary-->
     <PokemonC /><!-- Pokemon Detective Pikachu-->
     <JoanC /><!--Red Joan-->
-    <ShazamC /><!--Shazam-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <ShazamC /><!--Shazam-->
     <CorruptedC/><!--The Corrupted-->
     <LloronaC /><!--The curse of la Llorona-->
-    <HustleC /><!--The Hustle-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <HustleC /><!--The Hustle-->
     <TolkienC /><!--Tolkien-->
     <UsC /><!--Us-->
-    <Rose /><!----Wild Rose -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <Rose /><!----Wild Rose -->
     <WomanC /><!--Woman at war -->
-    <WonderC /><!--Wonder park -->
     <Blank />
     </b-card-group>
 
@@ -138,12 +131,14 @@
 
       <!--<Bala --Miss Bala-->
   <!--<FavouriteC />--The Favourite -->
+    <!--<HellboyC />--Heliboy-->
 
       <!--Maiden --Maiden-->
       <!--<MidC />--Mid 90s -->
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
+      <!--<PoppinsC />--Mary Poppins-->
 
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
@@ -166,7 +161,8 @@
       <!--Grinch --Grinch-->
       <!--<VanishingC --The Vanishing-->
       <!--<Crow --The White Crow-->
-          <!--<Vice /--Vice-->
+        <!--<Vice /--Vice-->
+      <!--<WonderC />--Wonder park -->
 
 
       </b-container>
