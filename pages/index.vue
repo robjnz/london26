@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Thursday<br>23rd May 2019</font></h1>
+    <h1> <font color="gold"><br>Friday<br>24th May 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -17,11 +17,11 @@ Charlton Athletic F.C.‎ <br>Womans Team<br>V<br>Leicester City<br>
 </h3>
 -->
 <h3 class ="tory">
-<br>Avengers Endgame<br>
+<br>Aladdin<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/7nN6KVAgwK4"
+          src    = "https://www.youtube.com/embed/foyufD52aog"
           allowfullscreen
   ></b-embed>
     Showing today @
@@ -35,6 +35,7 @@ Statford
 <b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
+<!--
 <h3 class ="asian">
 <br>Maharshi<br>
 
@@ -54,6 +55,7 @@ Ilford
 <b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
+-->
 <!--
 <h3 class="labour">International Contest <br>for<br> Young Talent 2019<br>
 

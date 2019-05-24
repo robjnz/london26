@@ -3,24 +3,21 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Tuesday 21st May 2019</h2>
+    <h2>Friday 24th May 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
-    <BlackiaC /><!--Blackia-->
-    <KalankC /><!--Kalank-->
-    <MaharshiC /><!--Maharshi-->
+    <Blank />
+    <Blank />
+    <Blank />
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <StudentC /><!--Student of the year 2 -->
-    <Blank />
-    <Blank />
-    </b-card-group>
-    
     <!--Asian movies-->
     <!--<GallanC />--Dil Diyan Gallan -->
+    <!--<BlackiaC />--Blackia-->
+    <!--<MaharshiC />--Maharshi-->
+    <!--<StudentC />--Student of the year 2 -->
+
 
 
 
@@ -49,6 +46,8 @@
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
+      <!--<KalankC />--Kalank-->
+
       <!--<Kesari /--Kesari -->
       <!--<KanchanaC />--Kanchana 3 -->
       <!--<KavaludaariC />--Kavaludaari -->

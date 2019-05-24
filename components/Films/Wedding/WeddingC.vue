@@ -38,7 +38,7 @@ When Frank and Lindsay meet on their way to a destination wedding, they soon dis
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>

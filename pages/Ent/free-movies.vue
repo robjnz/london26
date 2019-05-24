@@ -9,139 +9,139 @@
   class="mb-3 ">
   <Dog /><!--A Dog's Way Home-->
   <Star /><!--A star is Born-->
-  <Alita /><!--Alita Battle Angel -->
-  </b-card-group>
+  <Aladdin /><!--Aladdin-->
+</b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Alita /><!--Alita Battle Angel -->
   <Aquaman /><!--Aquaman -->
   <Avengers /><!--Avengers Endgame -->
-  <Boy /><!--Beautiful Boy -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Boy /><!--Beautiful Boy -->
   <Ben /><!--Ben is Back 15-->
   <Bohemian /><!--Bohemian Rhapsody -->
-  <Erased /><!--Boy Erased-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Erased /><!--Boy Erased-->
   <Breakthrough /><!--Breakthrough -->
   <Bumblebee /><!--Bumblebee -->
-  <Forgive /><!--Can You Ever Forgive Me -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
   <Cold /><!--cold Pursuit -->
-  <Wedding /><!--Destination Wedding -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Wedding /><!--Destination Wedding -->
   <Concrete /><!--Dragged Across Concrete -->
   <Dragonball /><!--Dragon Ball Super -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <Dumbo /><!--Dumbo -->
+    <Eighth /><!--Eighth Grade -->
+    <Escape /><!--Escape Room -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Eighth /><!--Eighth Grade -->
-    <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Five /><!--Five Feet Apart-->
   <Glass /><!--Glass-->
-  <Green /><!--Green Book-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
   <Life /><!--High Life -->
-  <Beale /><!--If Beale Street Could talk-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
   <Johnwick /><!--Johnwick Parbellum -->
-  <Kalank /><!--Kalank-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Kalank /><!--Kalank-->
   <Kavaludaari /><!--Kavaludaari -->
   <Shot /><!--Long shot-->
-  <Maharshi /><!--Maharshi-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Maharshi /><!--Maharshi-->
   <Scots /><!--Mary Queen Of Scots -->
   <Poppins /><!--Mary Poppins-->
-  <Mid /><!--Mid 90s -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Mid /><!--Mid 90s -->
   <Missing /><!--Missing Link-->
   <Sex /><!--On the basis of sex -->
-  <Blue /><!--Out Of Blue -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
   <Pokemon /><!-- Pokemon Detective Pikachu-->
-  <Joan /><!--Red Joan-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Joan /><!--Red Joan-->
   <Second /><!--Second Act-->
   <Shazam /><!--Shazam-->
-  <Stan/><!--Stan & Ollie -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Stan/><!--Stan & Ollie -->
   <Styx /><!--Styx -->
   <Llorona /><!--The curse of la Llorona-->
-  <Favourite /><!--The Favourite -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Favourite /><!--The Favourite -->
   <Grinch /><!--The Grinch-->
   <Hole /><!--The Hole In The Ground-->
-  <King /><!--The Kid Who Would Be King-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <King /><!--The Kid Who Would Be King-->
   <Teacher /><!--The Kinder Teacher -->
   <Sister /><!--The sisters Brother -->
-  <Upside /><!--The Upside -->
-  </b-card-group>
+</b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
   <Tolkien /><!--Tolkien -->
-  <Had /><!--What They Had -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
   <Blank />
   </b-card-group>
 
@@ -289,6 +289,7 @@ import Wedding from '@/components/Films/Wedding/Wedding'
 import Kalank from '@/components/Films/Kalank/Kalank'
 import Breakthrough from '@/components/Films/Breakthrough/Breakthrough'
 import Johnwick from '@/components/Films/Johnwick/Johnwick'
+import Aladdin from '@/components/Films/Aladdin/Aladdin'
 
 
 
@@ -308,6 +309,7 @@ export default {
     Alert,
     Aftermath,
     Airaa,
+    Aladdin,
     Alita,
     Aquaman,
     Avengers,

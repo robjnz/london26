@@ -4,12 +4,12 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Tuesday 21st May 2019</h2>
+    <h2>Friday 24th - Wednesday 29th May 2019</h2>
 
     <b-card-group deck
     class="mb-3">
     <DogC /><!--A Dog's Way Home-->
-    <True /><!--All Is True 12A"-->
+    <AladdinC /><!--Aladdin-->
     <GraceC /><!--Amazing Grace-->
     </b-card-group>
 
@@ -22,15 +22,15 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <WeddingC /><!--Destination Wedding -->
     <DumboC /><!--Dumbo -->
     <EighthC /><!--Eighth Grade -->
+    <JohnwickC /><!--Johnwick Parbellum -->
     </b-card-group>
 
     <b-card-group deck
     class="mb-3 ">
-    <JohnwickC /><!--Johnwick Parbellum -->
     <LifeC /><!--High Life -->
+    <Lego /><!--Lego2-->
     <LittleC /><!--Little -->
     </b-card-group>
 
@@ -38,39 +38,34 @@
   class="mb-3 ">
     <ShotC /><!--Long shot-->
     <PawpupsC /><!--Paw Patrol Mighty Pups -->
-    <Peppa /><!--Peppa Pig Festival of Fun-->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <PetC /><!--Pet Sematary-->
-    <PokemonC /><!-- Pokemon Detective Pikachu-->
-    <JoanC /><!--Red Joan-->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <ShazamC /><!--Shazam-->
-    <CorruptedC/><!--The Corrupted-->
+    <b-card-group deck
+    class="mb-3 ">
+    <PokemonC /><!-- Pokemon Detective Pikachu-->
+    <RocketmanC /><!--Rocketman -->
     <LloronaC /><!--The curse of la Llorona-->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
+    <b-card-group deck
+    class="mb-3 ">
     <HustleC /><!--The Hustle-->
+    <PetstwoC /><!--The Secret Life of Pets 2 -->
     <TolkienC /><!--Tolkien-->
-    <UsC /><!--Us-->
     </b-card-group>
 
-  <b-card-group deck
-  class="mb-3 ">
-    <Rose /><!----Wild Rose -->
+    <b-card-group deck
+    class="mb-3 ">
+    <UsC /><!--Us-->
     <WomanC /><!--Woman at war -->
     <Blank />
     </b-card-group>
 
 
       <!--<Ml --90ML -->
+      <!--<True />--All Is True-->
+
       <!--<Star --A star is Born-->
       <!-- <AlitaC --Alita Battle Angel -->
 
@@ -124,7 +119,6 @@
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
-      <!--<Lego />--Lego-->
 
       <!--<Luka />--Luka Chuppi  -->
 <!--  <Lords /--Lords of chaos-->
@@ -138,21 +132,27 @@
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
+      <!--<Peppa />--Peppa Pig Festival of Fun-->
+
       <!--<PoppinsC />--Mary Poppins-->
 
       <!--<Notebook />--Notebook-->
       <!--<Prodigy --The Prodigy-->
       <!--<Rabb /--Rabb Da Radio-->
       <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
+      <!--<JoanC />--Red Joan-->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
+      <!--<ShazamC />--Shazam-->
+
       <!--<CatC />--Spy Cat -->
       <!--<SisterC />--The sisters Brother -->
 
       <!--<Spider />--Spider-Man Into The Spider-Verse -->
 
       <!--<StyxC />--Styx -->
+      <!--<CorruptedC/>--The Corrupted-->
 
 
       <!--<Total /><-Total Dhamal  -->
@@ -162,6 +162,9 @@
       <!--<VanishingC --The Vanishing-->
       <!--<Crow --The White Crow-->
         <!--<Vice /--Vice-->
+        <!--<Rose />----Wild Rose -->
+        <!--<WeddingC />--Destination Wedding -->
+
       <!--<WonderC />--Wonder park -->
 
 
@@ -299,6 +302,9 @@ import WeddingC from '@/components/Films/Wedding/WeddingC'
 import BreakthroughC from '@/components/Films/Breakthrough/BreakthroughC'
 import JohnwickC from '@/components/Films/Johnwick/JohnwickC'
 import PawpupsC from '@/components/Films/Pawpups/PawpupsC'
+import AladdinC from '@/components/Films/Aladdin/AladdinC'
+import PetstwoC from '@/components/Films/Petstwo/PetstwoC'
+import RocketmanC from '@/components/Films/Rocketman/RocketmanC'
 
 
 
@@ -321,6 +327,7 @@ export default {
   components: {
     Aftermath,
     Airaa,
+    AladdinC,
     Alita,
     AlitaC,
     AvengersC,
@@ -412,6 +419,7 @@ export default {
     PawpupsC,
     Peppa,
     PetC,
+    PetstwoC,
     PokemonC,
     PoppinsC,
     Preview,
@@ -419,6 +427,7 @@ export default {
     Rabb,
     Ralph,
     Ring,
+    RocketmanC,
     RomeoC,
     Rose,
     Scots,

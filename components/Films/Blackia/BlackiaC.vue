@@ -15,7 +15,7 @@ Punjab in 1970s, Blackia tells the story of Gama, who is born into a family of g
   </b-button-group>
 <br><br>
 <b-button-group>
-<Ilfordbutton />
+<!--<Ilfordbutton />-->
 <!--<Westbutton />-->
   </b-button-group>
 

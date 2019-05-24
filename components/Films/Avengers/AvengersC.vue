@@ -5,12 +5,12 @@
           src    = "https://www.youtube.com/embed/7nN6KVAgwK4"
           allowfullscreen
   ></b-embed>
-  
+
     <p class="title-color">
       Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle, remaining Avengers must figure out a way to bring back their vanquished allies for an epic showdown with Thanos.
     </p>
-    
-      
+
+
 
 <h4 class="title-color">Cineworld</h4>
 <!--Bexleyheath-->
@@ -19,13 +19,13 @@
 </b-button-group>
 <br><br>
 
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<Thursday />
+
 <Friday />
 <Saturday />
 <Sunday />
+<Monday />
+<Tuesday />
+<Wednesday />
 
 <br><br>
 
@@ -35,29 +35,28 @@
 </b-button-group>
 <br><br>
 
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<Thursday />
 <Friday />
 <Saturday />
 <Sunday />
+<Monday />
+<Tuesday />
+<Wednesday />
 
 <br><br>
-  
+
 <!--Ilford -->
 <b-button-group>
 <Ilfordbutton />
 </b-button-group>
 <br><br>
 
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<Thursday />
+
 <Friday />
 <Saturday />
 <Sunday />
+<Monday />
+<Tuesday />
+<Wednesday />
 
 <br><br>
 
@@ -68,13 +67,13 @@
 
   <br><br>
 
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<Thursday />
+
 <Friday />
 <Saturday />
 <Sunday />
+<Monday />
+<Tuesday />
+<Wednesday />
 <br><br>
 
   <h4 class="title-color">Odeon</h4>
@@ -84,13 +83,13 @@
  </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
 <!--Southwoodford -->
@@ -99,13 +98,13 @@
   </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -115,29 +114,30 @@
   </b-button-group>
 <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
   <Friday />
   <Saturday />
   <!--<Sunday />-->
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
 <!--Hackney -->
   <b-button-group>
   <Phackneybutton />
   </b-button-group>
-  
+
 <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
+
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
 <!--stratford-->
@@ -149,12 +149,12 @@
   <!--<Monday />-->
   <!--<Tuesday />-->
   <!--<Wednesday />-->
-  <Thursday />
+  <!--<Thursday />-->
   <Friday />
   <Saturday />
   <Sunday />
   <br><br>
-  
+
   <h4 class="title-color">Showcase</h4>
   <!--Newham-->
   <b-button-group>
@@ -162,13 +162,14 @@
   </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
+
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
   <h4 class="title-color">Vue</h4>
@@ -178,28 +179,27 @@
   </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
+
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
-  
+
   <!--Stratford -->
 <b-button-group>
   <Vstratford />
   </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <Thursday />
   <Friday />
   <Saturday />
   <Sunday />
+  <Monday />
+  <Tuesday />
+  <Wednesday />
   <br><br>
 
   <h4 class="title-color"></h4>
