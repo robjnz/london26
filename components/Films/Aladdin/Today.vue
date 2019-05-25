@@ -2,7 +2,7 @@
   <div role="tablist">
     <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block href="#" v-b-toggle.accordion-1 variant="info">Cineworld</b-button>
+        <b-button block v-b-toggle.accordion-1 variant="info">Cineworld</b-button>
       </b-card-header>
       <b-collapse id="accordion-1" visible accordion="my-accordion" role="tabpanel">
 
@@ -13,7 +13,7 @@
 
     <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block href="#" v-b-toggle.accordion-2 variant="warning">Odeon</b-button>
+        <b-button block v-b-toggle.accordion-2 variant="warning">Odeon</b-button>
       </b-card-header>
       <b-collapse id="accordion-2" accordion="my-accordion" role="tabpanel">
         <Odeon />
@@ -22,7 +22,7 @@
 
     <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block href="#" v-b-toggle.accordion-3 variant="danger">Picturehouses</b-button>
+        <b-button block v-b-toggle.accordion-3 variant="danger">Picturehouses</b-button>
       </b-card-header>
       <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
         <Picturehouses />
@@ -31,7 +31,7 @@
 
     <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block href="#" v-b-toggle.accordion-4 variant="success">Showcase</b-button>
+        <b-button block v-b-toggle.accordion-4 variant="success">Showcase</b-button>
       </b-card-header>
       <b-collapse id="accordion-4" accordion="my-accordion" role="tabpanel">
         <Showcase/>
@@ -40,7 +40,7 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block href="#" v-b-toggle.accordion-5 variant="primary">Vue</b-button>
+        <b-button block v-b-toggle.accordion-5 variant="primary">Vue</b-button>
       </b-card-header>
       <b-collapse id="accordion-5" accordion="my-accordion" role="tabpanel">
         <Vue/>
