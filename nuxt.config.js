@@ -9,7 +9,7 @@ module.exports = {
   */
   head: {
     title: pkg.name,
-    meta: [
+    meta : [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: pkg.description }
@@ -43,6 +43,7 @@ module.exports = {
   modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
+    'portal-vue/nuxt',
   ],
 
   /*
@@ -53,7 +54,7 @@ module.exports = {
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-      
+
     }
   }
 }

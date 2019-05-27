@@ -24,19 +24,24 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Salomé">
+<b-card bg-variant="dark" text-variant="white" title= "A Womb of One's Own">
   <p class="title-color">
     Greenwich Theatre<br>
-    Wed 15 - Sat 25 May 2019
+    Wed 29 May 2019 @ 7.30pm
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "A Thousand Splendid Suns">
+<b-card bg-variant="dark" text-variant="white" title= "In The Night Garden">
   <p class="title-color">
+      <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/-wv-MkkErQ0"
+          allowfullscreen
+  ></b-embed>
     Hackney Empire<br>
-    Wed 22 - Sat 25 May 2019
+    Sat 01 - Sun 02 Jun 2019
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -56,28 +61,24 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Playhouse Creatures">
+<b-card bg-variant="dark" text-variant="white" title= "Copacabanna">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 23 - Sat 25 May 2019
+    Thu 6 - Sat 8 June 2019
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Willows">
+<b-card bg-variant="dark" text-variant="white" title= "The Jeff Short Big Swing Band & Singers">
 
 
   <p class="title-color">
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/EhZcPPTmcAA"
-          allowfullscreen
-  ></b-embed>
+    
     Queen's Theatre Hornchurch<br>
-    Wed 22 - Sun 26 May 2019
+    Wed 29 May 2019 @ 2.30pm
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>

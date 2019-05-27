@@ -11,6 +11,9 @@
     </p>
 
     <Today />
+    
+   
+
 
   <h4 class="title-color"></h4>
   <b-button-group>
@@ -21,6 +24,14 @@
 
 </b-card>
 </template>
+
+<style>
+.film{
+
+  background: #343A40;
+}
+
+</style>
 
 <script>
 
