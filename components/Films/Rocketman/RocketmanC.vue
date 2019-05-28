@@ -88,7 +88,7 @@
  </b-button-group>
   <br><br>
 
-  
+
   <Thursday />
   <Friday />
   <Saturday />
@@ -105,7 +105,7 @@
   </b-button-group>
   <br><br>
 
-  
+
   <Friday />
   <Saturday />
   <Sunday />
@@ -122,7 +122,7 @@
   </b-button-group>
 <br><br>
 
-  
+
   <Friday />
   <Saturday />
   <Sunday />
@@ -139,7 +139,7 @@
 
 <br><br>
 
-  
+
   <Friday />
   <Saturday />
   <Sunday />
@@ -171,7 +171,7 @@
   </b-button-group>
   <br><br>
 
-  
+
   <Friday />
   <Saturday />
   <Sunday />
@@ -188,7 +188,7 @@
   </b-button-group>
   <br><br>
 
-  
+
   <Friday />
   <Saturday />
   <Sunday />
@@ -219,6 +219,7 @@
     <RocketmanR />
     <Nineteen />
   </b-button-group>
+
 
 </b-card>
 </template>

@@ -11,21 +11,8 @@
     </p>
 
     <Today />
-    
-    <div>
-    <b-button block variant="info" id="show-btn" @click="$bvModal.show('bv-modal-example')">Showing This Week</b-button>
+   
 
-    <b-modal class="film" id="bv-modal-example" hide-footer>
-      <template slot="modal-title">
-      
-      </template>
-      <div class="d-block text-center">
-        <h3 class="asian">Aladdin</h3>
-        <Today />
-      </div>
-      <b-button class="mt-3" block @click="$bvModal.hide('bv-modal-example')">Close Me</b-button>
-    </b-modal>
-  </div>
 
 
   <h4 class="title-color"></h4>
@@ -39,10 +26,7 @@
 </template>
 
 <style>
-.film{
 
-  background: #343A40;
-}
 
 </style>
 
