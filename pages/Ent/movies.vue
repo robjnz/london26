@@ -2,9 +2,9 @@
 <template>
 <section>
   <b-container>
-    <h1 class="title-color">Movies showing today @ east London cinemas </h1>
+    <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Friday 24th - Wednesday 29th May 2019</h2>
+    <h2>Friday 24th - Tuesday 4th June 2019</h2>
 
     <b-card-group deck
     class="mb-3">

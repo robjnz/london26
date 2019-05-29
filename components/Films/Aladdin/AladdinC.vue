@@ -9,9 +9,9 @@
     <p class="title-color">
       Young Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie.
     </p>
+    <b-button block href="/Movies/Aladdin" target="_blank" variant="info">Aladdin Showing This Week &rArr;</b-button>
+    
 
-    <Today />
-   
 
 
 
@@ -44,12 +44,14 @@ import Today from '@/components/Films/Aladdin/Today'
 
 
 
+
 export default {
   components: {
     AladdinR,
     AladdinF,
     Nineteen,
     Today,
+    
       }
 }
 </script>

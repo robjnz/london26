@@ -1,18 +1,21 @@
 <template>
 <b-card bg-variant="dark" text-variant="white" title= "">
-<h4 class="title-color"></h4>
+<h4 class="title-color">Cineworld </h4>
 <b-button-group>
 <Bexleyheathbutton /><!--Bexleyheath -->
   </b-button-group>
 
 <br><br>
 
+
+<Thursday />
 <Friday />
 <Saturday />
+<Date />
 <Sunday />
 <Monday />
 <Tuesday />
-<Wednesday />
+<!--<Wednesday />-->
 
 <br><br>
 
@@ -23,12 +26,14 @@
 <br><br>
 
 
+<Thursday />
 <Friday />
 <Saturday />
+<Date />
 <Sunday />
 <Monday />
 <Tuesday />
-<Wednesday />
+<!--<Wednesday />-->
 
 
 <br><br>
@@ -38,12 +43,14 @@
 </b-button-group>
 <br><br>
 
+<Thursday />
 <Friday />
 <Saturday />
+<Date />
 <Sunday />
 <Monday />
 <Tuesday />
-<Wednesday />
+<!--<Wednesday />-->
 
 
 <br><br>
@@ -55,12 +62,14 @@
   <br><br>
 
 
+<Thursday />
 <Friday />
 <Saturday />
+<Date />
 <Sunday />
 <Monday />
 <Tuesday />
-<Wednesday />
+<!--<Wednesday />-->
 <br><br>
 
 </b-card>
@@ -78,6 +87,7 @@ import Thursday from '@/components/Films/Days/Thursday'
 import Friday from '@/components/Films/Days/Friday'
 import Saturday from '@/components/Films/Days/Saturday'
 import Sunday from '@/components/Films/Days/Sunday'
+import Date from '@/components/Films/Date/Date'
 
 
 
@@ -97,6 +107,7 @@ export default {
     Friday,
     Saturday,
     Sunday,
+    Date,
 
       }
 }
