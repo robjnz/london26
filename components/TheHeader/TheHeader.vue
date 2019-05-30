@@ -63,7 +63,6 @@
         <b-dropdown-item href="/TV">Television & Movies</b-dropdown-item>
         <b-dropdown-item href="/Ent/theatres">Theatres</b-dropdown-item>
         <b-dropdown-item href="/restaurants">Restaurants Guides</b-dropdown-item>
-        <b-dropdown-item href="/Movies/Aladdin">Aladdin</b-dropdown-item>
 
         </b-nav-item-dropdown>
 
