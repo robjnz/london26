@@ -3,12 +3,12 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Friday 24th May 2019</h2>
+    <h2>Saturday 1st June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
-    <Blank />
-    <Blank />
+    <KalankC /><!--Kalank-->
+    <StudentC /><!--Student of the year 2 -->
     <Blank />
     </b-card-group>
 
@@ -16,7 +16,6 @@
     <!--<GallanC />--Dil Diyan Gallan -->
     <!--<BlackiaC />--Blackia-->
     <!--<MaharshiC />--Maharshi-->
-    <!--<StudentC />--Student of the year 2 -->
 
 
 
@@ -46,7 +45,6 @@
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
-      <!--<KalankC />--Kalank-->
 
       <!--<Kesari /--Kesari -->
       <!--<KanchanaC />--Kanchana 3 -->
@@ -220,7 +218,7 @@ export default {
     return {
       titleTemplate: '%s Asian Movies Today',
       meta         : [
-        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, April 2019 and free to watch online movies' }
+        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, June 2019 and free to watch online movies' }
       ]
     }
   },

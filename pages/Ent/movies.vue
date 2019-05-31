@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Friday 24th - Wednesday 5th June 2019</h2>
+    <h2>Saturday 1st - Wednesday 5th June 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -16,50 +16,57 @@
   <b-card-group deck
   class="mb-3 ">
     <AvengersC /><!--Avengers Endgame -->
+    <BooksmartC /><!--booksmart-->
     <BreakthroughC /> <!--Breakthrough -->
-    <MarvelC /><!-- Captain Marvel -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <MarvelC /><!-- Captain Marvel -->
     <DumboC /><!--Dumbo -->
     <EighthC /><!--Eighth Grade -->
-    <JohnwickC /><!--Johnwick Parbellum -->
-    </b-card-group>
-
-    <b-card-group deck
-    class="mb-3 ">
-    <LifeC /><!--High Life -->
-    <Lego /><!--Lego2-->
-    <LittleC /><!--Little -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <GodzillaC /><!--Godzilla king Of The Monsters -->
+    <JohnwickC /><!--Johnwick Parbellum -->
+    <Lego /><!--Lego2-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+    <LittleC /><!--Little -->
     <ShotC /><!--Long shot-->
+    <MaC /><!--Ma-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <PawpupsC /><!--Paw Patrol Mighty Pups -->
+    <Peppa /><!--Peppa Pig Festival of Fun-->
     <PetC /><!--Pet Sematary-->
     </b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
     <PokemonC /><!-- Pokemon Detective Pikachu-->
     <RocketmanC /><!--Rocketman -->
-    <LloronaC /><!--The curse of la Llorona-->
-    </b-card-group>
+    <ShazamC /><!--Shazam-->
+</b-card-group>
 
-    <b-card-group deck
-    class="mb-3 ">
+  <b-card-group deck
+  class="mb-3 ">
+    <LloronaC /><!--The curse of la Llorona-->
     <HustleC /><!--The Hustle-->
+    <KeeperC /><!--The Keeper -->
+</b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <PetstwoC /><!--The Secret Life of Pets 2 -->
     <TolkienC /><!--Tolkien-->
-    </b-card-group>
-
-    <b-card-group deck
-    class="mb-3 ">
-    <UsC /><!--Us-->
     <WomanC /><!--Woman at war -->
-    <Blank />
     </b-card-group>
 
 
@@ -112,13 +119,13 @@
       <!--<HappyC />--Happy Death Day -->
       <!--<Fight --The Fight-->
       <!--<Hannah --Hannah-->
-      <!--<KeeperC --The Keeper -->
       <!--<KingC /--The Kid Who Would Be King-->
 
       <!--<Kobiety --Kobiety Mafii 2 -->
       <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
       <!--Kumbalangi --Kumbalangi Nights-->
       <!--<Junglee /--Junglee -->
+      <!--<LifeC /--High Life -->
 
       <!--<Luka />--Luka Chuppi  -->
 <!--  <Lords /--Lords of chaos-->
@@ -132,7 +139,6 @@
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
-      <!--<Peppa />--Peppa Pig Festival of Fun-->
 
       <!--<PoppinsC />--Mary Poppins-->
 
@@ -144,7 +150,6 @@
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
-      <!--<ShazamC />--Shazam-->
 
       <!--<CatC />--Spy Cat -->
       <!--<SisterC />--The sisters Brother -->
@@ -164,6 +169,7 @@
         <!--<Vice /--Vice-->
         <!--<Rose />----Wild Rose -->
         <!--<WeddingC />--Destination Wedding -->
+        <!--<UsC />--Us-->
 
       <!--<WonderC />--Wonder park -->
 
@@ -305,6 +311,9 @@ import PawpupsC from '@/components/Films/Pawpups/PawpupsC'
 import AladdinC from '@/components/Films/Aladdin/AladdinC'
 import PetstwoC from '@/components/Films/Petstwo/PetstwoC'
 import RocketmanC from '@/components/Films/Rocketman/RocketmanC'
+import BooksmartC from '@/components/Films/Booksmart/BooksmartC'
+import GodzillaC from '@/components/Films/Godzilla/GodzillaC'
+import MaC from '@/components/Films/Ma/MaC'
 
 
 
@@ -320,7 +329,7 @@ export default {
     return{
       titleTemplate: '%s Movies Today',
       meta         : [
-        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, April 2019 and free to watch online movies' }
+        { hid: 'description', name: 'description', content: ' Whats on today @ cineworld, odeon, picturehouses, showcase & Vue cinemas in east London, Bexleyheath, Greenwich 02, Ilford,romford, South Woodford and West India Quay, June 2019 and free to watch online movies' }
       ]
     }
   },
@@ -344,6 +353,7 @@ export default {
     Border,
     Boy,
     BoyC,
+    BooksmartC,
     BreakthroughC,
     Bumblebee,
     Burning,
@@ -378,6 +388,7 @@ export default {
     Forgive,
     Glass,
     GlassC,
+    GodzillaC,
     GraceC,
     Green,
     GreenC,
@@ -405,6 +416,7 @@ export default {
     Lucifer,
     Lords,
     Luka,
+    MaC,
     Maiden,
     ManjeC,
     Marvel,

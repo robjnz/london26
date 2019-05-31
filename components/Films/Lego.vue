@@ -8,12 +8,12 @@
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
- <Bexleyheathbutton />
-<Greenwichbutton />
+ <!--<Bexleyheathbutton />-->
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
-<!--<Ilfordbutton />-->
+<Ilfordbutton />
 <!--<Westbutton />-->
   </b-button-group>
 

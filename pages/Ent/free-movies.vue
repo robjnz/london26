@@ -28,121 +28,121 @@
 
   <b-card-group deck
   class="mb-3 ">
+  <Booksmart /><!--Booksmart-->
   <Erased /><!--Boy Erased-->
   <Breakthrough /><!--Breakthrough -->
-  <Bumblebee /><!--Bumblebee -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Bumblebee /><!--Bumblebee -->
   <Forgive /><!--Can You Ever Forgive Me -->
   <Marvel /><!-- Captain Marvel -->
-  <Cold /><!--cold Pursuit -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Cold /><!--cold Pursuit -->
   <Wedding /><!--Destination Wedding -->
   <Concrete /><!--Dragged Across Concrete -->
-  <Dragonball /><!--Dragon Ball Super -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Dragonball /><!--Dragon Ball Super -->
     <Dumbo /><!--Dumbo -->
     <Eighth /><!--Eighth Grade -->
-    <Escape /><!--Escape Room -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <Escape /><!--Escape Room -->
   <Fighting /><!--Fighting With My Family -->
   <Five /><!--Five Feet Apart-->
-  <Glass /><!--Glass-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Glass /><!--Glass-->
   <Green /><!--Green Book-->
   <Happy /><!--Happy Death Day -->
-  <Life /><!--High Life -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Life /><!--High Life -->
   <Beale /><!--If Beale Street Could talk-->
   <Family /><!--Instant Family  -->
-  <Johnwick /><!--Johnwick Parbellum -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Johnwick /><!--Johnwick Parbellum -->
   <Kalank /><!--Kalank-->
   <Kavaludaari /><!--Kavaludaari -->
-  <Shot /><!--Long shot-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Shot /><!--Long shot-->
   <Maharshi /><!--Maharshi-->
   <Scots /><!--Mary Queen Of Scots -->
-  <Poppins /><!--Mary Poppins-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Poppins /><!--Mary Poppins-->
   <Mid /><!--Mid 90s -->
   <Missing /><!--Missing Link-->
-  <Sex /><!--On the basis of sex -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Sex /><!--On the basis of sex -->
   <Blue /><!--Out Of Blue -->
   <Pet /><!--Pet Sematary-->
-  <Pokemon /><!-- Pokemon Detective Pikachu-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Pokemon /><!-- Pokemon Detective Pikachu-->
   <Joan /><!--Red Joan-->
   <Second /><!--Second Act-->
-  <Shazam /><!--Shazam-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Shazam /><!--Shazam-->
   <Stan/><!--Stan & Ollie -->
   <Styx /><!--Styx -->
-  <Llorona /><!--The curse of la Llorona-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Llorona /><!--The curse of la Llorona-->
   <Favourite /><!--The Favourite -->
   <Grinch /><!--The Grinch-->
-  <Hole /><!--The Hole In The Ground-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
   <Teacher /><!--The Kinder Teacher -->
-  <Sister /><!--The sisters Brother -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Upside /><!--The Upside -->
-  <Vanishing /><!--The Vanishing-->
-  <Tolkien /><!--Tolkien -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Sister /><!--The sisters Brother -->
+  <Upside /><!--The Upside -->
+  <Vanishing /><!--The Vanishing-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
+  <Tolkien /><!--Tolkien -->
   <Had /><!--What They Had -->
   <Wonder /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
 
@@ -290,6 +290,7 @@ import Kalank from '@/components/Films/Kalank/Kalank'
 import Breakthrough from '@/components/Films/Breakthrough/Breakthrough'
 import Johnwick from '@/components/Films/Johnwick/Johnwick'
 import Aladdin from '@/components/Films/Aladdin/Aladdin'
+import Booksmart from '@/components/Films/Booksmart/Booksmart'
 
 
 
@@ -323,6 +324,7 @@ export default {
     Blank,
     Blue,
     Bohemian,
+    Booksmart,
     Border,
     Boy,
     Breakthrough,
