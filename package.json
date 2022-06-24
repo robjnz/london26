@@ -16,7 +16,7 @@
     "bootstrap-vue"           : "^2.0.0-rc.20",
     "cross-env"               : "^5.2.0",
     "jquery"                  : "^3.4.1",
-    "node-fetch"              : "^2.6.0",
+    "node-fetch"              : "^2.6.7",
     "nuxt"                    : "^2.7.1",
     "popper.js"               : "^1.15.0",
     "portal-vue"              : "^2.1.4"
